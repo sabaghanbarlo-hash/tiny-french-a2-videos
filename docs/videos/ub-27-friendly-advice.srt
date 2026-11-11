@@ -1,0 +1,29 @@
+1
+00:00:12,336 --> 00:00:17,828
+Je suis fatiguée. Je travaille trop en ce moment.
+I'm tired. I work too much at the moment.
+
+2
+00:00:17,928 --> 00:00:21,668
+Tu devrais prendre quelques jours de repos.
+You should take a few days of rest.
+
+3
+00:00:21,768 --> 00:00:27,332
+Mais j'ai beaucoup de travail. Que ferais-tu à ma place ?
+But I have a lot of work. What would you do in my place?
+
+4
+00:00:27,432 --> 00:00:31,796
+À ta place, j'en parlerais à mon chef.
+In your place, I would talk to my boss about it.
+
+5
+00:00:31,896 --> 00:00:37,988
+Tu as raison. Il vaudrait mieux parler maintenant que trop tard.
+You're right. It would be better to speak now than too late.
+
+6
+00:00:38,088 --> 00:00:43,772
+Voilà. Et tu pourrais aussi marcher un peu chaque soir.
+There you go. And you could also walk a little each evening.

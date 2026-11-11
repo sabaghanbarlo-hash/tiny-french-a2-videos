@@ -1,0 +1,29 @@
+1
+00:00:12,024 --> 00:00:15,404
+Pourquoi voulez-vous travailler chez nous ?
+Why do you want to work with us?
+
+2
+00:00:15,504 --> 00:00:21,548
+Je cherche un poste qui correspond à mes compétences et qui me permet d'apprendre.
+I'm looking for a job that matches my skills and lets me learn.
+
+3
+00:00:21,648 --> 00:00:24,572
+Quels sont vos points forts ?
+What are your strengths?
+
+4
+00:00:24,672 --> 00:00:31,844
+Je suis organisée et motivée. Je finis toujours le travail que je commence.
+I'm organised and motivated. I always finish the work that I start.
+
+5
+00:00:31,944 --> 00:00:34,772
+Et votre point faible ?
+And your weakness?
+
+6
+00:00:34,872 --> 00:00:40,196
+Je suis parfois trop perfectionniste, mais j'apprends à déléguer.
+I'm sometimes too much of a perfectionist, but I'm learning to delegate.

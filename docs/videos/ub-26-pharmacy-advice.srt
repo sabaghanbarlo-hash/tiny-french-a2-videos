@@ -1,0 +1,29 @@
+1
+00:00:11,976 --> 00:00:18,812
+Bonjour, j'ai de la toux et mal à la gorge. Qu'est-ce que vous me conseillez ?
+Hello, I have a cough and a sore throat. What do you recommend?
+
+2
+00:00:18,912 --> 00:00:25,700
+Je vous conseille de prendre ce sirop. Prenez-en une cuillère trois fois par jour.
+I recommend you take this syrup. Take a spoonful three times a day.
+
+3
+00:00:25,800 --> 00:00:28,604
+Pendant combien de temps ?
+For how long?
+
+4
+00:00:28,704 --> 00:00:32,756
+Pendant cinq jours, avec un grand verre d'eau.
+For five days, with a big glass of water.
+
+5
+00:00:32,856 --> 00:00:36,044
+Il me faut une ordonnance ?
+Do I need a prescription?
+
+6
+00:00:36,144 --> 00:00:43,196
+Non, c'est sans ordonnance. Si ça ne va pas mieux, voyez un médecin.
+No, it's over the counter. If you're not better, see a doctor.

@@ -1,0 +1,29 @@
+1
+00:00:11,160 --> 00:00:13,988
+Tu as travaillé où avant ?
+Where did you work before?
+
+2
+00:00:14,088 --> 00:00:19,244
+J'ai travaillé comme assistante dans une agence pendant deux ans.
+I worked as an assistant in an agency for two years.
+
+3
+00:00:19,344 --> 00:00:21,884
+Et tes études ?
+And your studies?
+
+4
+00:00:21,984 --> 00:00:29,060
+J'ai un diplôme de communication. J'ai étudié à l'université de Lyon.
+I have a degree in communication. I studied at the University of Lyon.
+
+5
+00:00:29,160 --> 00:00:33,140
+Tu sais utiliser des logiciels de design ?
+Do you know how to use design software?
+
+6
+00:00:33,240 --> 00:00:39,812
+Oui, je sais utiliser plusieurs logiciels et je suis capable de travailler en équipe.
+Yes, I know how to use several programs and I can work in a team.

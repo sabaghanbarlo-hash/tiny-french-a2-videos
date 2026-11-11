@@ -1,0 +1,29 @@
+1
+00:00:12,000 --> 00:00:15,116
+Comment tu restes en forme ?
+How do you stay fit?
+
+2
+00:00:15,216 --> 00:00:19,700
+Je marche trente minutes en écoutant de la musique.
+I walk for thirty minutes while listening to music.
+
+3
+00:00:19,800 --> 00:00:22,628
+Et pour bien dormir ?
+And to sleep well?
+
+4
+00:00:22,728 --> 00:00:29,348
+Je me couche tôt en lisant un livre. En faisant ça, je dors mieux.
+I go to bed early while reading a book. By doing that, I sleep better.
+
+5
+00:00:29,448 --> 00:00:33,884
+Moi, je mange sainement en cuisinant à la maison.
+I eat healthily by cooking at home.
+
+6
+00:00:33,984 --> 00:00:39,572
+C'est bien. On se sent mieux en bougeant un peu chaque jour.
+That's good. You feel better by moving a bit every day.
