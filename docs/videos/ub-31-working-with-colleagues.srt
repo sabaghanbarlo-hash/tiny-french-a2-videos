@@ -1,0 +1,29 @@
+1
+00:00:12,216 --> 00:00:16,964
+Marinette, pouvez-vous m'envoyer le dossier avant midi ?
+Marinette, can you send me the file before noon?
+
+2
+00:00:17,064 --> 00:00:23,036
+Bien sûr. Le chef m'a dit qu'il voulait le voir ce matin.
+Of course. The boss told me he wanted to see it this morning.
+
+3
+00:00:23,136 --> 00:00:27,332
+Il nous a demandé de préparer la réunion aussi.
+He also asked us to prepare the meeting.
+
+4
+00:00:27,432 --> 00:00:33,524
+Je sais. Il a dit que la réunion était reportée à jeudi.
+I know. He said the meeting was postponed until Thursday.
+
+5
+00:00:33,624 --> 00:00:39,596
+Alors nous avons plus de temps. Je réponds au client en attendant.
+Then we have more time. I'll reply to the client in the meantime.
+
+6
+00:00:39,696 --> 00:00:45,188
+Parfait. Je vous envoie le dossier dans dix minutes.
+Perfect. I'll send you the file in ten minutes.

@@ -1,0 +1,29 @@
+1
+00:00:12,000 --> 00:00:15,452
+Tu as lu les informations ce matin ?
+Did you read the news this morning?
+
+2
+00:00:15,552 --> 00:00:23,012
+Oui. Selon le journal, la mairie a ouvert un nouveau parc près de la gare.
+Yes. According to the paper, the town hall has opened a new park near the station.
+
+3
+00:00:23,112 --> 00:00:29,996
+Ah oui ? Moi, j'ai entendu à la radio qu'il y avait des travaux dans toute la rue.
+Oh really? I heard on the radio that there was roadwork all along the street.
+
+4
+00:00:30,096 --> 00:00:34,004
+Il paraît que les travaux vont durer deux mois.
+Apparently the roadwork will last two months.
+
+5
+00:00:34,104 --> 00:00:39,092
+D'après les réseaux sociaux, les habitants ne sont pas contents.
+According to social media, the residents aren't happy.
+
+6
+00:00:39,192 --> 00:00:43,940
+Il faut vérifier l'information avant de la partager.
+You have to check the information before sharing it.
