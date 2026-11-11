@@ -1,0 +1,47 @@
+title: Writing a CV
+episode: UB29
+scene: bookstore
+
+[story]
+Adrien: Tu as travaillé où avant ? | Where did you work before?
+Marinette: J'ai travaillé comme assistante dans une agence pendant deux ans. | I worked as an assistant in an agency for two years.
+Adrien: Et tes études ? | And your studies?
+Marinette: J'ai un diplôme de communication. J'ai étudié à l'université de Lyon. | I have a degree in communication. I studied at the University of Lyon.
+Adrien: Tu sais utiliser des logiciels de design ? | Do you know how to use design software?
+Marinette: Oui, je sais utiliser plusieurs logiciels et je suis capable de travailler en équipe. | Yes, I know how to use several programs and I can work in a team.
+
+[vocab]
+vocab: le CV | CV, résumé | luh say-VAY
+example: Je mets à jour mon CV. | I'm updating my CV.
+vocab: travailler comme | to work as | trah-vah-yay KOHM
+example: J'ai travaillé comme assistante. | I worked as an assistant.
+vocab: l'expérience | experience | lehk-spay-RYAHNSS
+example: J'ai deux ans d'expérience. | I have two years of experience.
+vocab: le diplôme | degree, diploma | luh dee-PLOHM
+example: J'ai un diplôme de communication. | I have a degree in communication.
+vocab: les compétences | skills | lay kohn-pay-TAHNSS
+example: Mes compétences sont variées. | My skills are varied.
+vocab: le logiciel | software, program | luh loh-zhee-SYEHL
+example: Je sais utiliser ce logiciel. | I know how to use this program.
+vocab: travailler en équipe | to work in a team | trah-vah-yay ahn ay-KEEP
+example: Elle aime travailler en équipe. | She likes working in a team.
+vocab: être capable de | to be able to | EH-truh kah-PAH-bluh duh
+example: Je suis capable de travailler seule. | I'm able to work alone.
+vocab: mettre à jour | to update | MEH-truh ah ZHOOR
+example: Je mets mon CV à jour. | I'm updating my CV.
+
+[grammar]
+grammar: Talking about experience | Use the passé composé for finished jobs and studies: j'ai travaillé comme assistante, j'ai étudié à Lyon. Use pendant plus duration for how long: pendant deux ans. Use depuis plus present for a job you still have: je travaille ici depuis trois ans. Comme plus job means as: j'ai travaillé comme infirmière.
+example: J'ai travaillé pendant deux ans. | I worked for two years.
+example: Je travaille ici depuis trois ans. | I've worked here for three years.
+grammar: Skills: savoir and être capable de | Savoir plus infinitive means to know how to: je sais utiliser ce logiciel, il sait cuisiner. Être capable de plus infinitive means to be able to: je suis capable de travailler en équipe. Savoir: je sais, tu sais, il sait, nous savons, vous savez, ils savent.
+example: Je sais utiliser ce logiciel. | I know how to use this program.
+example: Il est capable de travailler seul. | He is able to work alone.
+
+[quiz]
+quiz: Which is correct? | J'ai travaillé comme une assistante. | J'ai travaillé comme assistante. | J'ai travaillé comme l'assistante. | J'ai travaillé en comme assistante. | B | No article after comme + job.
+quiz: Which sentence says you still work there? | J'ai travaillé ici pendant trois ans. | J'ai travaillé ici il y a trois ans. | Je travaille ici depuis trois ans. | Je travaillais ici depuis trois ans. | C | Present + depuis.
+quiz: What does “les compétences” mean? | salaries | colleagues | diplomas | skills | D | Compétences = skills.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Old Photos
+episode: UB7
+scene: home
+
+[story]
+Marinette: C'est où, sur cette photo ? | Where is this in the photo?
+Adrien: C'est la maison de mes grands-parents. C'était en 2010. | That's my grandparents' house. It was in 2010.
+Marinette: Il y avait un grand arbre devant la maison ! | There was a big tree in front of the house!
+Adrien: Oui, mais il n'y a plus d'arbre maintenant. Il était vieux. | Yes, but there's no tree any more. It was old.
+Marinette: Et ta grand-mère, elle est sur la photo ? | And your grandmother, is she in the photo?
+Adrien: Oui, elle portait toujours un tablier. Elle ne cuisine plus, mais elle fait encore des gâteaux. | Yes, she always wore an apron. She doesn't cook any more, but she still bakes cakes.
+
+[vocab]
+vocab: la photo | photo | lah foh-TOH
+example: C'est une vieille photo. | It's an old photo.
+vocab: c'était | it was | say-TEH
+example: C'était en 2010. | It was in 2010.
+vocab: il y avait | there was / there were | eel ee ah-VEH
+example: Il y avait un grand arbre. | There was a big tree.
+vocab: l'arbre | tree | LAR-bruh
+example: L'arbre était très grand. | The tree was very big.
+vocab: avant | before, in the past | ah-VAHN
+example: Avant, j'habitais ici. | I used to live here.
+vocab: maintenant | now | man-tuh-NAHN
+example: Maintenant, tout a changé. | Now everything has changed.
+vocab: ne… plus | no longer, not any more | nuh… PLEWSS
+example: Elle ne travaille plus. | She no longer works.
+vocab: encore | still, again | ahn-KOHR
+example: Il fait encore froid. | It's still cold.
+vocab: changer | to change | shahn-ZHAY
+example: La ville a beaucoup changé. | The town has changed a lot.
+
+[grammar]
+grammar: C'était and il y avait | To describe the past, use c'était and il y avait. Both are in the imparfait: c'était en 2010, c'était un grand jardin, il y avait un arbre. For people and objects, use être and avoir in the imparfait: elle était grande, il avait les yeux bleus.
+example: C'était un grand jardin. | It was a big garden.
+example: Il y avait un arbre. | There was a tree.
+grammar: Ne… plus | Ne plus means no longer. Like ne pas, it goes around the verb: elle ne cuisine plus. In the passé composé it goes around the auxiliary: elle n'a plus travaillé. After plus, un/une/des become de: il n'y a plus d'arbre. The opposite is encore: elle fait encore des gâteaux.
+example: Elle ne cuisine plus. | She doesn't cook any more.
+example: Il n'y a plus d'arbre. | There is no tree any more.
+
+[quiz]
+quiz: How do you say “there was a tree”? | Il y a eu un arbre. | Il y avais un arbre. | Il était un arbre. | Il y avait un arbre. | D | Il y avait = there was.
+quiz: What does “elle ne cuisine plus” mean? | she doesn't cook any more | she still cooks | she has never cooked | she cooks more | A | Ne… plus = no longer.
+quiz: Which tense is used to describe a past scene? | futur | imparfait | présent | impératif | B | Descriptions use the imparfait.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Choosing a Better Flat
+episode: UB9
+scene: home
+
+[story]
+Marinette: J'hésite entre deux appartements. Le premier est plus grand que le deuxième, mais il est plus cher. | I'm hesitating between two flats. The first is bigger than the second, but it's more expensive.
+Adrien: Combien coûtent-ils ? | How much do they cost?
+Marinette: Sept cents euros et six cents euros. Le deuxième est moins lumineux, mais il est aussi calme que le premier. | Seven hundred and six hundred euros. The second is less bright, but it's as quiet as the first.
+Adrien: Lequel est le mieux situé ? | Which one is better located?
+Marinette: Le premier. C'est le plus proche du métro, et c'est le quartier le plus agréable. | The first. It's the closest to the metro, and it's the nicest neighbourhood.
+Adrien: Alors prends le premier. C'est le meilleur choix ! | Then take the first one. It's the best choice!
+
+[vocab]
+vocab: hésiter entre | to hesitate between | ay-zee-TAY AHN-truh
+example: J'hésite entre deux appartements. | I'm hesitating between two flats.
+vocab: lumineux / lumineuse | bright, full of light | lew-mee-NUH
+example: Le salon est très lumineux. | The living room is very bright.
+vocab: calme | quiet, calm | KAHLM
+example: Le quartier est calme. | The neighbourhood is quiet.
+vocab: agréable | pleasant | ah-gray-AH-bluh
+example: C'est un quartier agréable. | It's a pleasant neighbourhood.
+vocab: proche de | close to | PROHSH duh
+example: L'appartement est proche du métro. | The flat is close to the metro.
+vocab: bien situé | well located | byan see-tew-AY
+example: Il est bien situé. | It's well located.
+vocab: le choix | choice | luh SHWAH
+example: C'est le meilleur choix. | It's the best choice.
+vocab: meilleur / meilleure | better, best | meh-YUHR
+example: C'est le meilleur appartement. | It's the best flat.
+vocab: mieux | better (adverb) | MYUH
+example: Il est mieux situé. | It's better located.
+
+[grammar]
+grammar: Comparatives and superlatives | To compare, use plus, moins or aussi plus adjective plus que: plus grand que, moins lumineux que, aussi calme que. For the superlative, add le / la / les: le plus proche, la moins chère, les plus calmes. The adjective agrees with the noun. After a superlative, use de: le plus grand de la ville.
+example: Il est plus grand que l'autre. | It's bigger than the other.
+example: C'est le plus calme du quartier. | It's the quietest in the neighbourhood.
+grammar: Meilleur, mieux and lequel | Bon becomes meilleur: c'est le meilleur choix. Bien becomes mieux: il est mieux situé. Do not say plus bon or plus bien. To ask which one, use lequel / laquelle / lesquels / lesquelles: Lequel est le mieux situé ? Laquelle est la plus chère ?
+example: C'est un meilleur choix. | It's a better choice.
+example: Lequel est le plus cher ? | Which one is the most expensive?
+
+[quiz]
+quiz: Which is the correct comparative of “bon”? | plus bon | meilleur | plus mieux | meilleurer | B | Bon → meilleur.
+quiz: How do you say “the quietest”? | plus le calme | le calme plus | le plus calme | très calme que | C | Le + plus + adjective.
+quiz: What does “aussi calme que” mean? | quieter than | too quiet for | less quiet than | as quiet as | D | Aussi… que = as… as.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

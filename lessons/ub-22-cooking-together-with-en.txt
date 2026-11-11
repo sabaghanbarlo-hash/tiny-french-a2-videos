@@ -1,0 +1,47 @@
+title: Cooking Together
+episode: UB22
+scene: home
+
+[story]
+Adrien: Tu as des œufs ? | Do you have any eggs?
+Marinette: Oui, j'en ai six. Combien t'en faut ? | Yes, I have six. How many do you need?
+Adrien: Il m'en faut trois. Tu as aussi du sucre ? | I need three. Do you also have some sugar?
+Marinette: J'en ai un peu, mais je n'en ai pas beaucoup. Prends-en deux cuillères. | I have a little, but not a lot. Take two spoonfuls.
+Adrien: Et du beurre ? | And some butter?
+Marinette: Il n'y en a plus. Je vais en acheter ce soir. | There's none left. I'm going to buy some tonight.
+
+[vocab]
+vocab: le sucre | sugar | luh SEW-kruh
+example: J'en ai un peu. | I have a little.
+vocab: le beurre | butter | luh BUHR
+example: Il n'y a plus de beurre. | There's no more butter.
+vocab: la cuillère | spoon, spoonful | lah kwee-YEHR
+example: Deux cuillères de sucre. | Two spoonfuls of sugar.
+vocab: la pincée | pinch | lah pan-SAY
+example: Une pincée de sel. | A pinch of salt.
+vocab: combien t'en faut ? | how many do you need? | kohn-BYAN tahn FOH
+example: Combien t'en faut ? | How many do you need?
+vocab: il m'en faut | I need some / I need (a number) | eel mahn FOH
+example: Il m'en faut trois. | I need three.
+vocab: un peu | a little | uhn PUH
+example: J'en ai un peu. | I have a little.
+vocab: pas beaucoup | not a lot | pah boh-KOO
+example: Je n'en ai pas beaucoup. | I don't have a lot.
+vocab: il n'y en a plus | there's none left | eel nee ahn ah PLEWSS
+example: Il n'y en a plus. | There's none left.
+
+[grammar]
+grammar: The pronoun en for quantities | En replaces du, de la, de l', des plus noun, or a noun after a number or a quantity: Tu as des œufs ? J'en ai six. Tu as du sucre ? J'en ai un peu. It goes before the verb: j'en ai, je n'en ai pas, il m'en faut. In the near future it goes before the infinitive: je vais en acheter. Keep the number or the quantity word: j'en ai six, j'en ai beaucoup.
+example: J'en ai six. | I have six.
+example: Je vais en acheter. | I'm going to buy some.
+grammar: En in commands | In an affirmative command en goes after the verb with a hyphen: prends-en deux, achètes-en. For -er verbs the s comes back before en: tu manges du pain becomes manges-en ! In a negative command en stays before the verb: n'en prends pas.
+example: Prends-en deux. | Take two (of them).
+example: N'en prends pas trop. | Don't take too much of it.
+
+[quiz]
+quiz: How do you say “I have six” (eggs)? | J'en ai six. | J'ai six en. | Je les ai six. | J'en ai de six. | A | En goes before the verb.
+quiz: What does “Il n'y en a plus” mean? | There's a lot | There's none left | There's only one | There's never any | B | Il n'y en a plus = none left.
+quiz: Which command is correct? | Prends deux-en. | En prends deux. | Prends-en deux. | Prenez en-deux. | C | Pronoun after the verb with a hyphen.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Feeling Unwell
+episode: UB25
+scene: home
+
+[story]
+Adrien: Tu as une mauvaise mine. Ça ne va pas ? | You look unwell. Are you OK?
+Marinette: Je ne me sens pas bien depuis deux jours. J'ai un rhume et je tousse beaucoup. | I haven't felt well for two days. I have a cold and I'm coughing a lot.
+Adrien: Tu as de la fièvre ? | Do you have a fever?
+Marinette: Un peu. Et j'ai du mal à dormir à cause de la toux. | A little. And I have trouble sleeping because of the cough.
+Adrien: Tu as besoin de repos. Tu devrais voir un médecin. | You need rest. You should see a doctor.
+Marinette: Tu as raison. Je vais prendre rendez-vous demain matin. | You're right. I'll make an appointment tomorrow morning.
+
+[vocab]
+vocab: la mauvaise mine | pale, unwell look | lah moh-VEHZ MEEN
+example: Tu as mauvaise mine. | You look unwell.
+vocab: se sentir | to feel | suh sahn-TEER
+example: Je ne me sens pas bien. | I don't feel well.
+vocab: le rhume | cold | luh REWM
+example: J'ai un rhume. | I have a cold.
+vocab: la grippe | flu | lah GREEP
+example: Il a la grippe. | He has the flu.
+vocab: la toux | cough | lah TOO
+example: J'ai une toux sèche. | I have a dry cough.
+vocab: avoir du mal à | to have trouble (doing) | ah-VWAHR dew MAHL ah
+example: J'ai du mal à dormir. | I have trouble sleeping.
+vocab: à cause de | because of | ah KOHZ duh
+example: À cause de la toux. | Because of the cough.
+vocab: le repos | rest | luh ruh-POH
+example: J'ai besoin de repos. | I need rest.
+vocab: prendre rendez-vous | to make an appointment | PRAHN-druh rahn-day-VOO
+example: Je prends rendez-vous demain. | I'll make an appointment tomorrow.
+
+[grammar]
+grammar: Se sentir and avoir du mal à | Se sentir is reflexive: je me sens, tu te sens, il se sent, nous nous sentons. Use it with an adjective or adverb: je me sens fatigué, je ne me sens pas bien. Avoir du mal à plus infinitive means to have trouble doing something: j'ai du mal à dormir, il a du mal à respirer.
+example: Je me sens fatigué. | I feel tired.
+example: J'ai du mal à dormir. | I have trouble sleeping.
+grammar: Since when and because of | Use depuis plus present for a state that began in the past and continues: je ne me sens pas bien depuis deux jours. Use à cause de plus noun to give a reason: à cause de la toux, à cause du froid. Avoir besoin de plus noun says what you need: j'ai besoin de repos.
+example: Je tousse depuis deux jours. | I've been coughing for two days.
+example: J'ai besoin de repos. | I need rest.
+
+[quiz]
+quiz: How do you say “I don't feel well”? | Je ne sens pas bien. | Je ne me sens pas bien. | Je ne me sentir pas bien. | Je me ne sens pas bien. | B | Se sentir is reflexive.
+quiz: What does “à cause de la toux” mean? | despite the cough | after the cough | because of the cough | without the cough | C | À cause de = because of.
+quiz: Which tense follows “depuis” for a continuing state? | passé composé | futur | imparfait | présent | D | Depuis + present.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

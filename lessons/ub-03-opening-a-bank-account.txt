@@ -1,0 +1,48 @@
+title: Opening a Bank Account
+episode: UB3
+scene: town
+
+[story]
+Adrien: Bonjour, madame. Que puis-je faire pour vous ? | Hello, madam. What can I do for you?
+Marinette: Je voudrais ouvrir un compte, s'il vous plaît. | I'd like to open an account, please.
+Adrien: Très bien. Avez-vous une pièce d'identité et un justificatif de domicile ? | Very good. Do you have an ID and a proof of address?
+Marinette: J'ai mon passeport et mon contrat de location. | I have my passport and my rental contract.
+Adrien: Parfait. Vous devez remplir ce formulaire et signer ici. | Perfect. You need to fill in this form and sign here.
+Marinette: Pourriez-vous m'expliquer les frais de la carte ? | Could you explain the card fees to me?
+Adrien: Bien sûr. La carte coûte deux euros par mois. | Of course. The card costs two euros a month.
+
+[vocab]
+vocab: le compte | account | luh KOHNT
+example: Je voudrais ouvrir un compte. | I'd like to open an account.
+vocab: la pièce d'identité | ID document | lah pyehss dee-dahn-tee-TAY
+example: Avez-vous une pièce d'identité ? | Do you have an ID?
+vocab: le justificatif de domicile | proof of address | luh zhews-tee-fee-kah-TEEF duh doh-mee-SEEL
+example: Il faut un justificatif de domicile. | You need proof of address.
+vocab: le contrat de location | rental contract | luh kohn-TRAH duh loh-kah-SYOHN
+example: J'ai mon contrat de location. | I have my rental contract.
+vocab: remplir un formulaire | to fill in a form | rahn-PLEER uhn fohr-mew-LEHR
+example: Vous devez remplir ce formulaire. | You must fill in this form.
+vocab: signer | to sign | see-NYAY
+example: Signez ici, s'il vous plaît. | Sign here, please.
+vocab: les frais | fees, costs | lay FREH
+example: Quels sont les frais ? | What are the fees?
+vocab: la carte bancaire | bank card | lah kart bahn-KEHR
+example: La carte bancaire est gratuite. | The bank card is free.
+vocab: pourriez-vous… ? | could you…? | poo-ryay VOO
+example: Pourriez-vous répéter ? | Could you repeat?
+
+[grammar]
+grammar: Polite requests with the conditional | To be polite, use the conditional of vouloir, aimer and pouvoir: je voudrais, j'aimerais, pourriez-vous. They are softer than je veux or pouvez-vous. Add s'il vous plaît or merci. You will study the conditional in detail later; for now just learn these three forms.
+example: Je voudrais ouvrir un compte. | I'd like to open an account.
+example: Pourriez-vous m'aider ? | Could you help me?
+grammar: Vous devez + infinitive | Devoir is followed by the infinitive: vous devez remplir, nous devons signer. In an office, you will often hear il faut plus infinitive, which is impersonal: il faut remplir ce formulaire. Use avoir besoin de plus noun for documents: j'ai besoin d'un justificatif de domicile.
+example: Vous devez signer ici. | You must sign here.
+example: Il faut une pièce d'identité. | You need an ID.
+
+[quiz]
+quiz: Which request is the most polite? | Aidez-moi. | Je veux de l'aide. | Vous m'aidez ? | Pourriez-vous m'aider ? | D | Pourriez-vous is the polite conditional.
+quiz: What does “un justificatif de domicile” mean? | a proof of address | a bank card | a rent payment | a passport | A | Domicile = home address.
+quiz: What does “Vous devez signer” mean? | You can sign | You must sign | You have signed | You may sign later | B | Devoir = must.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: When I Was a Child
+episode: UB5
+scene: park
+
+[story]
+Adrien: Quand j'étais petit, j'habitais dans un village près de Lyon. | When I was little, I lived in a village near Lyon.
+Marinette: Moi, j'habitais à Paris, dans un petit appartement. On n'avait pas de jardin. | I lived in Paris, in a small apartment. We didn't have a garden.
+Adrien: Nous, on avait un grand jardin et un chien. Tous les jours, je jouais dehors avec ma sœur. | We had a big garden and a dog. Every day I played outside with my sister.
+Marinette: Et à l'école, tu étais comment ? | And at school, what were you like?
+Adrien: J'étais très timide, mais j'aimais beaucoup lire. | I was very shy, but I loved reading.
+Marinette: Moi, je dessinais tout le temps. Mes parents disaient que j'avais trop d'imagination ! | I drew all the time. My parents said I had too much imagination!
+
+[vocab]
+vocab: quand j'étais petit(e) | when I was little | kahn zhay-TAY puh-TEE
+example: Quand j'étais petite, j'habitais à Paris. | When I was little, I lived in Paris.
+vocab: l'enfance | childhood | lahn-FAHNSS
+example: J'ai passé mon enfance à la campagne. | I spent my childhood in the countryside.
+vocab: le village | village | luh vee-LAHZH
+example: Le village était très calme. | The village was very quiet.
+vocab: le jardin | garden | luh zhar-DAN
+example: On avait un grand jardin. | We had a big garden.
+vocab: dehors | outside | duh-OHR
+example: Je jouais dehors. | I played outside.
+vocab: tout le temps | all the time | too luh TAHN
+example: Je dessinais tout le temps. | I drew all the time.
+vocab: dessiner | to draw | deh-see-NAY
+example: Elle dessinait des animaux. | She drew animals.
+vocab: l'imagination | imagination | lee-mah-zhee-nah-SYOHN
+example: Tu avais beaucoup d'imagination. | You had a lot of imagination.
+vocab: autrefois | in the past, formerly | oh-truh-FWAH
+example: Autrefois, on habitait ici. | In the past, we lived here.
+
+[grammar]
+grammar: Forming the imparfait | Take the nous form of the present, remove -ons, and add the endings: -ais, -ais, -ait, -ions, -iez, -aient. Nous habitons becomes j'habitais, tu habitais, il habitait, nous habitions, vous habitiez, ils habitaient. Être is the only irregular stem: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient. The singular endings and ils sound the same.
+example: J'habitais à Paris. | I lived in Paris.
+example: Il était très timide. | He was very shy.
+grammar: What the imparfait is for | Use the imparfait for habits, repeated actions and descriptions in the past: tous les jours je jouais dehors, elle était timide, il faisait beau. Time words that often go with it: toujours, souvent, tous les jours, chaque été, tout le temps, autrefois, quand j'étais petit.
+example: Tous les jours, je jouais dehors. | Every day I played outside.
+example: On avait un chien. | We had a dog.
+
+[quiz]
+quiz: Which sentence uses the imparfait correctly? | J'habitai à Paris. | J'habitais à Paris. | J'habite à Paris autrefois. | J'ai habitais à Paris. | B | Nous habitons → habit- + ais.
+quiz: What does “tout le temps” mean? | from time to time | not at all | all the time | at that time | C | Tout le temps = all the time.
+quiz: What is the imparfait for “nous avions”? | we have | we will have | we have had | we had | D | Avions is the imparfait of avoir.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

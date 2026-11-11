@@ -1,0 +1,48 @@
+title: Following a Recipe
+episode: UB21
+scene: home
+
+[story]
+Marinette: Pour faire des crêpes, il faut trois cents grammes de farine, trois œufs et un demi-litre de lait. | To make crêpes, you need three hundred grams of flour, three eggs and half a litre of milk.
+Adrien: Je mélange tout ? | Do I mix everything?
+Marinette: D'abord, versez la farine dans un saladier, puis ajoutez les œufs. | First, pour the flour into a bowl, then add the eggs.
+Adrien: Et le lait ? | And the milk?
+Marinette: Ajoutez-le petit à petit en mélangeant bien. Laissez reposer la pâte une heure. | Add it little by little, stirring well. Let the batter rest for an hour.
+Adrien: Et pour la cuisson ? | And for cooking?
+Marinette: Faites cuire chaque crêpe deux minutes de chaque côté dans une poêle chaude. | Cook each crêpe for two minutes on each side in a hot pan.
+
+[vocab]
+vocab: la farine | flour | lah fah-REEN
+example: Trois cents grammes de farine. | Three hundred grams of flour.
+vocab: l'œuf | egg | LUHF
+example: Il faut trois œufs. | You need three eggs.
+vocab: le lait | milk | luh LEH
+example: Un demi-litre de lait. | Half a litre of milk.
+vocab: le saladier | mixing bowl | luh sah-lah-DYAY
+example: Versez la farine dans un saladier. | Pour the flour into a bowl.
+vocab: la pâte | dough, batter | lah PAHT
+example: Laissez reposer la pâte. | Let the batter rest.
+vocab: mélanger | to mix | may-lahn-ZHAY
+example: Mélangez bien. | Mix well.
+vocab: ajouter | to add | ah-zhoo-TAY
+example: Ajoutez les œufs. | Add the eggs.
+vocab: verser | to pour | vehr-SAY
+example: Versez le lait. | Pour the milk.
+vocab: faire cuire | to cook (in a pan or oven) | fehr KWEER
+example: Faites cuire deux minutes. | Cook for two minutes.
+
+[grammar]
+grammar: The imperative in recipes | Recipes use the vous imperative: vous versez becomes versez, vous ajoutez becomes ajoutez, vous mélangez becomes mélangez. Faire is irregular: faites cuire. In printed recipes you will also see the infinitive: mélanger, ajouter. A pronoun comes after the verb with a hyphen: ajoutez-le.
+example: Mélangez bien. | Mix well.
+example: Ajoutez-le petit à petit. | Add it little by little.
+grammar: Il faut and quantities | Il faut plus quantity says what you need: il faut trois cents grammes de farine, il faut trois œufs. After a quantity word, use de: un demi-litre de lait, un kilo de farine, une pincée de sel. Order the steps with d'abord, puis, ensuite, enfin.
+example: Il faut trois œufs. | You need three eggs.
+example: Un demi-litre de lait. | Half a litre of milk.
+
+[quiz]
+quiz: Which is the vous imperative of “mélanger”? | mélangeons | mélangez | mélange | mélangeait | B | Vous mélangez → mélangez.
+quiz: Which sentence is correct? | Ajoutez le-petit à petit. | Le ajoutez petit à petit. | Ajoutez-le petit à petit. | Ajoutez lui petit à petit. | C | Pronoun after the imperative with a hyphen.
+quiz: What does “la pâte” mean in a recipe? | the pasta | the pan | the plate | the batter or dough | D | Pâte = batter / dough.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

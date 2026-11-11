@@ -1,0 +1,49 @@
+title: Telling the Story of Your Day
+episode: UB4
+scene: terrace
+
+[story]
+Adrien: Alors, ton premier jour ? Raconte ! | So, your first day? Tell me!
+Marinette: D'abord, je suis arrivée au bureau à neuf heures. Ensuite, j'ai rencontré mes collègues. | First, I arrived at the office at nine. Then I met my colleagues.
+Adrien: Et vous avez déjeuné ensemble ? | And did you have lunch together?
+Marinette: Oui, puis j'ai suivi une formation pendant l'après-midi. | Yes, then I did a training session during the afternoon.
+Adrien: Et le soir ? | And in the evening?
+Marinette: Enfin, je suis rentrée à pied. Je n'ai jamais autant marché ! | Finally, I walked home. I've never walked so much!
+Adrien: Tu es fatiguée ? | Are you tired?
+Marinette: Un peu, mais j'ai adoré cette journée. | A little, but I loved this day.
+
+[vocab]
+vocab: d'abord | first, at first | dah-BOHR
+example: D'abord, j'ai pris le métro. | First, I took the metro.
+vocab: ensuite | then, next | ahn-SWEET
+example: Ensuite, j'ai rencontré mes collègues. | Then I met my colleagues.
+vocab: puis | then | PWEE
+example: Puis, nous avons déjeuné. | Then we had lunch.
+vocab: enfin | finally | ahn-FAN
+example: Enfin, je suis rentrée. | Finally, I went home.
+vocab: rencontrer | to meet | rahn-kohn-TRAY
+example: J'ai rencontré mes collègues. | I met my colleagues.
+vocab: suivre une formation | to take a training course | SWEE-vruh ewn fohr-mah-SYOHN
+example: J'ai suivi une formation. | I did a training course.
+vocab: rentrer | to come home, go back | rahn-TRAY
+example: Je suis rentrée à pied. | I walked home.
+vocab: raconter | to tell, to narrate | rah-kohn-TAY
+example: Raconte ta journée ! | Tell me about your day!
+vocab: ne… jamais | never | nuh… zhah-MEH
+example: Je n'ai jamais autant marché. | I've never walked so much.
+
+[grammar]
+grammar: Sequencing events | To tell what happened in order, use d'abord, ensuite or puis and enfin. Put them at the start of the sentence: d'abord, je suis arrivée; ensuite, j'ai mangé. Puis and ensuite are interchangeable. Each verb stays in the passé composé: avoir for most verbs, être for arriver, partir, rentrer and the others you learned.
+example: D'abord, je suis arrivée. | First, I arrived.
+example: Enfin, j'ai dormi. | Finally, I slept.
+grammar: Never in the past | Ne jamais goes around the auxiliary, like ne pas: je n'ai jamais voyagé, elle n'est jamais venue. The participle comes after jamais. Compare: je ne vais jamais and je ne suis jamais allée.
+example: Je n'ai jamais voyagé seule. | I've never travelled alone.
+example: Elle n'est jamais venue. | She has never come.
+
+[quiz]
+quiz: Which word means “finally” in a story? | d'abord | puis | enfin | déjà | C | Enfin = finally.
+quiz: Which negative is correct? | Je n'ai voyagé jamais. | Je ne jamais ai voyagé. | Je jamais n'ai voyagé. | Je n'ai jamais voyagé. | D | Ne… jamais goes around the auxiliary.
+quiz: What does “Raconte !” mean? | Tell me! | Count! | Stop! | Come in! | A | Raconter = to tell a story.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

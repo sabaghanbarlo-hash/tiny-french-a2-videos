@@ -1,0 +1,47 @@
+title: Talking About Languages
+episode: UB16
+scene: bookstore
+
+[story]
+Adrien: Quelles langues tu parles ? | Which languages do you speak?
+Marinette: Je parle français, anglais et un peu espagnol. J'apprends l'italien depuis un an. | I speak French, English and a little Spanish. I've been learning Italian for a year.
+Adrien: Tu le parles couramment ? | Do you speak it fluently?
+Marinette: Pas encore, mais je le comprends bien. Mon accent est encore difficile. | Not yet, but I understand it well. My accent is still difficult.
+Adrien: Pour progresser, il faut parler tous les jours. | To make progress, you have to speak every day.
+Marinette: Je sais. Je regarde aussi des films sans sous-titres pour m'entraîner. | I know. I also watch films without subtitles to practise.
+
+[vocab]
+vocab: la langue | language | lah LAHNG
+example: Quelles langues tu parles ? | Which languages do you speak?
+vocab: parler couramment | to speak fluently | pahr-LAY koo-rah-MAHN
+example: Il parle couramment anglais. | He speaks English fluently.
+vocab: comprendre | to understand | kohn-PRAHN-druh
+example: Je comprends bien l'italien. | I understand Italian well.
+vocab: apprendre | to learn | ah-PRAHN-druh
+example: J'apprends l'italien. | I'm learning Italian.
+vocab: progresser | to make progress | proh-greh-SAY
+example: Je progresse en français. | I'm making progress in French.
+vocab: l'accent | accent | lahk-SAHN
+example: Il a un accent italien. | He has an Italian accent.
+vocab: traduire | to translate | trah-DWEER
+example: Je peux traduire ce mot. | I can translate this word.
+vocab: les sous-titres | subtitles | lay soo-TEE-truh
+example: Je regarde des films avec des sous-titres. | I watch films with subtitles.
+vocab: s'entraîner | to practise, to train | sahn-treh-NAY
+example: Je m'entraîne tous les jours. | I practise every day.
+
+[grammar]
+grammar: Learning and speaking | Apprendre à plus infinitive means to learn to do something: j'apprends à parler italien. With a language name, apprendre takes a direct object: j'apprends l'italien. To replace the language, use le: je le parle, je le comprends. Depuis plus present: j'apprends l'italien depuis un an.
+example: J'apprends l'italien depuis un an. | I've been learning Italian for a year.
+example: Je le comprends bien. | I understand it well.
+grammar: Pour + infinitive | Pour plus infinitive gives a purpose or goal: pour progresser, il faut parler tous les jours; je regarde des films pour m'entraîner. It answers the question Pourquoi ? with a goal. Adverbs: couramment, bien, mal, un peu go after the verb.
+example: Pour progresser, il faut parler. | To make progress, you have to speak.
+example: Je regarde des films pour m'entraîner. | I watch films to practise.
+
+[quiz]
+quiz: How do you say “I've been learning Italian for a year”? | J'ai appris l'italien depuis un an. | J'apprends l'italien pendant un an. | J'apprends l'italien depuis un an. | J'apprenais l'italien il y a un an. | C | Present + depuis.
+quiz: What does “pour progresser” mean? | because of progress | after progress | without progress | in order to make progress | D | Pour + infinitive = goal.
+quiz: What does “parler couramment” mean? | to speak fluently | to speak slowly | to speak softly | to speak badly | A | Couramment = fluently.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

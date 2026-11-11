@@ -1,0 +1,47 @@
+title: Describing Personality
+episode: UB13
+scene: terrace
+
+[story]
+Adrien: Comment est ton nouveau collègue ? | What's your new colleague like?
+Marinette: Il a l'air un peu timide, mais il est très gentil. Il est aussi très organisé. | He seems a bit shy, but he's very kind. He's also very organised.
+Adrien: Il ressemble à qui ? | Who does he look like?
+Marinette: Il ressemble à ton cousin Paul : même sourire, même façon de parler. | He looks like your cousin Paul: same smile, same way of speaking.
+Adrien: Il est drôle ? | Is he funny?
+Marinette: Pas vraiment, mais il est plutôt calme et patient. | Not really, but he's rather calm and patient.
+
+[vocab]
+vocab: le caractère | character, personality | luh kah-rahk-TEHR
+example: Il a bon caractère. | He has a good nature.
+vocab: organisé / organisée | organised | ohr-gah-nee-ZAY
+example: Elle est très organisée. | She's very organised.
+vocab: patient / patiente | patient | pah-SYAHN
+example: Il est patient avec les enfants. | He's patient with children.
+vocab: sérieux / sérieuse | serious, hard-working | say-RYUH
+example: Elle est très sérieuse. | She's very serious.
+vocab: généreux / généreuse | generous | zhay-nay-RUH
+example: Il est généreux. | He is generous.
+vocab: bavard / bavarde | talkative | bah-VAHR
+example: Ma sœur est bavarde. | My sister is talkative.
+vocab: avoir l'air | to seem, to look | ah-VWAHR LEHR
+example: Il a l'air fatigué. | He looks tired.
+vocab: ressembler à | to look like | ruh-sahn-BLAY ah
+example: Il ressemble à son père. | He looks like his father.
+vocab: plutôt | rather, fairly | plew-TOH
+example: Il est plutôt calme. | He's fairly calm.
+
+[grammar]
+grammar: Avoir l'air and ressembler à | Avoir l'air plus adjective says how someone seems: il a l'air timide, elles ont l'air fatiguées. Ressembler à says who someone looks like: il ressemble à son père, je ressemble à ma mère. Ask Il ressemble à qui ? and Comment est-il ?
+example: Il a l'air timide. | He seems shy.
+example: Je ressemble à ma mère. | I look like my mother.
+grammar: Feminine of personality adjectives | Many adjectives change in the feminine: -eux becomes -euse, -if becomes -ive, -er becomes -ère. Strengthen or soften with très, assez, plutôt, un peu: très généreux, assez patient, un peu bavard.
+example: Elle est généreuse. | She is generous.
+example: Il est un peu bavard. | He's a bit talkative.
+
+[quiz]
+quiz: How do you say “He seems shy”? | Il est l'air timide. | Il a l'air timide. | Il a air timide. | Il ressemble timide. | B | Avoir l'air + adjective.
+quiz: What does “plutôt calme” mean? | not calm at all | very calm | fairly calm | too calm | C | Plutôt = rather.
+quiz: Which sentence says who someone looks like? | Il ressemble son père. | Il est ressemble à son père. | Il se ressemble père. | Il ressemble à son père. | D | Ressembler à + person.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

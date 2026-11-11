@@ -1,0 +1,48 @@
+title: How Long Have You Lived Here?
+episode: UB2
+scene: cafe
+
+[story]
+Adrien: Tu habites à Lyon depuis quand ? | How long have you been living in Lyon?
+Marinette: Depuis lundi ! Je suis arrivée il y a quatre jours. | Since Monday! I arrived four days ago.
+Adrien: Moi, j'habite ici depuis vingt ans. | I've lived here for twenty years.
+Marinette: Tu n'as jamais habité ailleurs ? | You've never lived anywhere else?
+Adrien: Si, j'ai vécu à Paris pendant deux ans, mais je préfère Lyon. | Yes, I lived in Paris for two years, but I prefer Lyon.
+Marinette: Tu y as travaillé ? | Did you work there?
+Adrien: Oui, pendant six mois, il y a trois ans. | Yes, for six months, three years ago.
+
+[vocab]
+vocab: depuis | for, since (still true) | duh-PWEE
+example: J'habite ici depuis dix ans. | I've lived here for ten years.
+vocab: il y a | ago | eel ee AH
+example: Je suis arrivée il y a quatre jours. | I arrived four days ago.
+vocab: pendant | for, during | pahn-DAHN
+example: J'ai vécu à Paris pendant deux ans. | I lived in Paris for two years.
+vocab: depuis quand ? | since when? | duh-PWEE KAHN
+example: Tu habites ici depuis quand ? | Since when have you lived here?
+vocab: depuis combien de temps ? | for how long? | duh-PWEE kohn-BYAN duh TAHN
+example: Depuis combien de temps tu travailles ? | How long have you been working?
+vocab: vivre | to live | VEE-vruh
+example: J'ai vécu à Paris. | I lived in Paris.
+vocab: ailleurs | elsewhere | ah-YUHR
+example: Tu as habité ailleurs ? | Have you lived elsewhere?
+vocab: longtemps | for a long time | lohn-TAHN
+example: J'ai habité ici longtemps. | I lived here for a long time.
+vocab: la semaine dernière | last week | lah suh-MEHN dehr-NYEHR
+example: Je suis arrivée la semaine dernière. | I arrived last week.
+
+[grammar]
+grammar: Depuis + present | Use depuis with the present tense for something that began in the past and is still true: J'habite ici depuis vingt ans. Depuis can give a start point or a duration.
+example: J'habite à Lyon depuis lundi. | I've lived in Lyon since Monday.
+example: Il travaille ici depuis trois ans. | He has worked here for three years.
+grammar: Il y a and pendant with the past | Il y a plus time plus a past event says how long ago: je suis arrivée il y a quatre jours. Pendant plus duration plus past event says how long it lasted: j'ai vécu à Paris pendant deux ans. Compare: depuis, il y a, pendant.
+example: Il est parti il y a une heure. | He left an hour ago.
+example: J'ai travaillé pendant six mois. | I worked for six months.
+
+[quiz]
+quiz: Which sentence says you still live in Lyon? | J'habite à Lyon depuis deux ans. | J'ai habité à Lyon pendant deux ans. | J'habitais à Lyon il y a deux ans. | J'ai habité à Lyon il y a deux ans. | A | Present + depuis means it is still true.
+quiz: Which sentence is correct? | J'ai vécu à Paris depuis deux ans. | J'ai vécu à Paris pendant deux ans. | Je vis à Paris pendant deux ans. | J'ai vécu à Paris il y a deux ans pendant. | B | Pendant gives a finished duration.
+quiz: What does “Depuis quand ?” ask? | How much? | Until when? | Since when? | Where to? | C | Depuis quand = since when.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

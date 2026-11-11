@@ -1,0 +1,47 @@
+title: Disagreeing Politely
+episode: UB35
+scene: cafe
+
+[story]
+Marinette: Je pense que le télétravail est la meilleure solution pour tout le monde. | I think working from home is the best solution for everyone.
+Adrien: Je ne suis pas tout à fait d'accord. D'un côté, on gagne du temps ; de l'autre, on est plus isolé. | I don't quite agree. On the one hand, you save time; on the other, you're more isolated.
+Marinette: C'est vrai, mais on peut quand même voir ses collègues deux jours par semaine. | That's true, but you can still see your colleagues two days a week.
+Adrien: En revanche, certains métiers ne permettent pas le télétravail. | On the other hand, some jobs don't allow working from home.
+Marinette: Pourtant, de plus en plus d'entreprises essaient de s'adapter. | Yet more and more companies are trying to adapt.
+Adrien: D'accord, nous avons tous les deux un peu raison. | OK, we both have a point.
+
+[vocab]
+vocab: je ne suis pas tout à fait d'accord | I don't quite agree | zhuh nuh swee pah too tah feh dah-KOHR
+example: Je ne suis pas tout à fait d'accord. | I don't quite agree.
+vocab: d'un côté… de l'autre | on the one hand… on the other | duhn koh-TAY… duh loh-truh
+example: D'un côté c'est pratique, de l'autre c'est cher. | On the one hand it's practical, on the other it's expensive.
+vocab: en revanche | on the other hand | ahn ruh-VAHNSH
+example: En revanche, c'est plus cher. | On the other hand, it's more expensive.
+vocab: pourtant | yet, however | poor-TAHN
+example: Pourtant, il a raison. | Yet he's right.
+vocab: cependant | however | suh-pahn-DAHN
+example: Cependant, il faut réfléchir. | However, we need to think.
+vocab: isolé / isolée | isolated | ee-zoh-LAY
+example: On est plus isolé chez soi. | You're more isolated at home.
+vocab: de plus en plus | more and more | duh plew zahn PLEW
+example: De plus en plus d'entreprises essaient. | More and more companies try.
+vocab: s'adapter | to adapt | sah-dap-TAY
+example: Les entreprises s'adaptent. | Companies adapt.
+vocab: avoir un peu raison | to have a point | ah-VWAHR uhn PUH reh-ZOHN
+example: Tu as un peu raison. | You have a point.
+
+[grammar]
+grammar: Contrast connectors | Use these to link two ideas that oppose each other: mais, pourtant, cependant, en revanche. D'un côté de l'autre presents two sides: d'un côté, on gagne du temps ; de l'autre, on est plus isolé. Put the connector at the beginning of the second sentence or after the first verb.
+example: C'est pratique, mais c'est cher. | It's practical, but expensive.
+example: D'un côté, c'est utile ; de l'autre, c'est cher. | On the one hand it's useful; on the other it's expensive.
+grammar: Disagreeing politely | Soften a disagreement: je ne suis pas tout à fait d'accord, je comprends, mais, c'est vrai, mais, tu as raison sur ce point, mais. Avoid saying tu as tort straight away. End on common ground: nous avons tous les deux un peu raison.
+example: C'est vrai, mais il y a un problème. | That's true, but there's a problem.
+example: Tu as raison sur ce point. | You're right on that point.
+
+[quiz]
+quiz: Which expression is the most polite way to disagree? | Tu as tort. | C'est faux ! | Pas du tout. | Je ne suis pas tout à fait d'accord. | D | Soften the disagreement.
+quiz: What does “en revanche” mean? | on the other hand | as a result | in addition | at the end | A | En revanche = in contrast.
+quiz: What does “de plus en plus” mean? | less and less | more and more | as much as | more or less | B | De plus en plus = increasingly.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

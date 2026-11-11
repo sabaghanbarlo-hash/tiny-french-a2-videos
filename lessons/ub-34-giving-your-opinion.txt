@@ -1,0 +1,47 @@
+title: Giving Your Opinion
+episode: UB34
+scene: street
+
+[story]
+Marinette: Qu'est-ce que tu penses des nouvelles pistes cyclables ? | What do you think of the new bike lanes?
+Adrien: À mon avis, c'est une très bonne idée. Je trouve que la ville est plus agréable. | In my opinion, it's a very good idea. I find the city is more pleasant.
+Marinette: Je suis d'accord. Je pense qu'il y a moins de voitures et moins de bruit. | I agree. I think there are fewer cars and less noise.
+Adrien: Mais il faut que la ville fasse plus pour la sécurité. | But the city needs to do more for safety.
+Marinette: Tu as raison. Il faut que tout le monde respecte les règles. | You're right. Everyone has to respect the rules.
+Adrien: Voilà ! Qu'est-ce que tu en penses, toi ? | There you go! What do you think about it?
+
+[vocab]
+vocab: à mon avis | in my opinion | ah mohn nah-VEE
+example: À mon avis, c'est une bonne idée. | In my opinion, it's a good idea.
+vocab: je pense que | I think that | zhuh PAHNSS kuh
+example: Je pense qu'il a raison. | I think he's right.
+vocab: je trouve que | I find that | zhuh TROOV kuh
+example: Je trouve que c'est utile. | I find that it's useful.
+vocab: qu'est-ce que tu en penses ? | what do you think about it? | kehs-kuh tew ahn PAHNSS
+example: Qu'est-ce que tu en penses ? | What do you think about it?
+vocab: je suis d'accord | I agree | zhuh swee dah-KOHR
+example: Je suis d'accord avec toi. | I agree with you.
+vocab: tu as raison / tort | you are right / wrong | tew ah reh-ZOHN / TOHR
+example: Tu as tort. | You're wrong.
+vocab: la piste cyclable | bike lane | lah peest see-KLAH-bluh
+example: La piste cyclable est neuve. | The bike lane is new.
+vocab: la sécurité | safety, security | lah say-kew-ree-TAY
+example: La sécurité est importante. | Safety is important.
+vocab: les règles | the rules | lay REH-gluh
+example: Il faut respecter les règles. | You must respect the rules.
+
+[grammar]
+grammar: Giving an opinion | Give your opinion with à mon avis plus clause, je pense que plus indicative, je trouve que plus indicative, selon moi. After je pense que and je trouve que, use the normal indicative: je pense qu'il y a moins de voitures. To ask for someone's opinion: qu'est-ce que tu en penses ? or tu en penses quoi ?
+example: Je pense que c'est une bonne idée. | I think it's a good idea.
+example: Qu'est-ce que tu en penses ? | What do you think about it?
+grammar: Il faut que + subjunctive (first look) | After il faut que, use the subjunctive present. For regular verbs it looks like the present for je, tu, il, ils: il faut que je parle, que tu finisses. Irregular verbs to learn now: être becomes que je sois, avoir becomes que j'aie, aller becomes que j'aille, faire becomes que je fasse, pouvoir becomes que je puisse. Il faut que la ville fasse plus.
+example: Il faut que je parte. | I must leave.
+example: Il faut que tout le monde respecte les règles. | Everyone must respect the rules.
+
+[quiz]
+quiz: Which expression gives an opinion? | À mon avis | Selon le journal | Tout de suite | Avant de | A | À mon avis = in my opinion.
+quiz: Which is the subjunctive of “faire” after “il faut que la ville”? | fait | fasse | fera | ferait | B | Que la ville fasse.
+quiz: What does “Tu as tort” mean? | You are right | You are early | You are wrong | You are late | C | Tort = wrong.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

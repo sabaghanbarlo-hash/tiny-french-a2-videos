@@ -1,0 +1,48 @@
+title: My Grandmother's Cake
+episode: UB24
+scene: home
+
+[story]
+Adrien: Ma grand-mère faisait un gâteau délicieux. Elle le préparait chaque dimanche. | My grandmother used to make a delicious cake. She made it every Sunday.
+Marinette: Tu sais comment elle le faisait ? | Do you know how she made it?
+Adrien: Oui. Avant de commencer, elle sortait tous les ingrédients. | Yes. Before starting, she got out all the ingredients.
+Marinette: Et ensuite ? | And then?
+Adrien: Elle mélangeait le sucre et les œufs, puis elle ajoutait la farine. | She mixed the sugar and the eggs, then she added the flour.
+Marinette: Et après avoir mis le gâteau au four ? | And after putting the cake in the oven?
+Adrien: Après avoir attendu quarante minutes, elle le sortait. Pour réussir, il ne fallait jamais ouvrir le four ! | After waiting forty minutes, she took it out. To make it work, you could never open the oven!
+
+[vocab]
+vocab: le gâteau | cake | luh gah-TOH
+example: Elle faisait un gâteau. | She used to make a cake.
+vocab: le four | oven | luh FOOR
+example: Elle mettait le gâteau au four. | She put the cake in the oven.
+vocab: sortir | to take out, to get out | sohr-TEER
+example: Elle sortait les ingrédients. | She got out the ingredients.
+vocab: réussir | to succeed, to get right | ray-ew-SEER
+example: Pour réussir, il faut attendre. | To get it right, you have to wait.
+vocab: les ingrédients | ingredients | lay zan-gray-DYAHN
+example: Elle sortait tous les ingrédients. | She got out all the ingredients.
+vocab: avant de | before (doing) | ah-VAHN duh
+example: Avant de commencer, elle lisait la recette. | Before starting, she read the recipe.
+vocab: après avoir | after (having) | ah-PREH zah-VWAHR
+example: Après avoir mangé, nous sommes sortis. | After eating, we went out.
+vocab: préparer | to prepare | pray-pah-RAY
+example: Elle préparait le gâteau. | She prepared the cake.
+vocab: mettre au four | to put in the oven | MEH-truh oh FOOR
+example: Elle mettait le gâteau au four. | She put the cake in the oven.
+
+[grammar]
+grammar: Avant de and après avoir | Avant de plus infinitive says what comes first: avant de commencer, elle sortait les ingrédients. Après avoir plus past participle says what came before: après avoir attendu, elle sortait le gâteau. With verbs that take être use après être: après être arrivée. Both need the same subject for both verbs.
+example: Avant de commencer, elle lisait. | Before starting, she read.
+example: Après avoir mangé, nous sommes sortis. | After eating, we went out.
+grammar: Habits and tips in the past | Use the imparfait for habits: elle le préparait chaque dimanche, elle mélangeait, elle ajoutait. Give tips with pour plus infinitive: pour réussir, il fallait attendre. Il fallait is the imparfait of il faut; il ne fallait jamais means you must never.
+example: Elle le préparait chaque dimanche. | She made it every Sunday.
+example: Pour réussir, il fallait attendre. | To get it right, you had to wait.
+
+[quiz]
+quiz: Which sentence is correct? | Avant commencer, elle lisait la recette. | Avant de commence, elle lisait la recette. | Avant de commencer, elle lisait la recette. | Avant que commencer, elle lisait la recette. | C | Avant de + infinitive.
+quiz: What does “il fallait” mean? | it was missing | it will be necessary | he failed | it was necessary | D | Il fallait = imparfait of il faut.
+quiz: Which tense describes the grandmother's habit? | imparfait | futur | impératif | passé composé | A | Habits use the imparfait.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

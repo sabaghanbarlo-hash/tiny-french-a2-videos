@@ -1,0 +1,47 @@
+title: A Job Interview
+episode: UB30
+scene: classroom
+
+[story]
+Adrien: Pourquoi voulez-vous travailler chez nous ? | Why do you want to work with us?
+Marinette: Je cherche un poste qui correspond à mes compétences et qui me permet d'apprendre. | I'm looking for a job that matches my skills and lets me learn.
+Adrien: Quels sont vos points forts ? | What are your strengths?
+Marinette: Je suis organisée et motivée. Je finis toujours le travail que je commence. | I'm organised and motivated. I always finish the work that I start.
+Adrien: Et votre point faible ? | And your weakness?
+Marinette: Je suis parfois trop perfectionniste, mais j'apprends à déléguer. | I'm sometimes too much of a perfectionist, but I'm learning to delegate.
+
+[vocab]
+vocab: l'entretien d'embauche | job interview | lahn-truh-TYAN dahn-BOHSH
+example: J'ai un entretien d'embauche demain. | I have a job interview tomorrow.
+vocab: le poste | position, post | luh POHST
+example: Je cherche un poste. | I'm looking for a position.
+vocab: correspondre à | to match, to correspond to | koh-reh-SPOHN-druh ah
+example: Ce poste correspond à mes compétences. | This job matches my skills.
+vocab: le point fort | strength | luh PWAN FOHR
+example: Mon point fort est l'organisation. | My strength is organisation.
+vocab: le point faible | weakness | luh PWAN FEH-bluh
+example: Mon point faible est la timidité. | My weakness is shyness.
+vocab: motivé / motivée | motivated | moh-tee-VAY
+example: Je suis très motivée. | I'm very motivated.
+vocab: perfectionniste | perfectionist | pehr-fehk-syoh-NEEST
+example: Je suis un peu perfectionniste. | I'm a bit of a perfectionist.
+vocab: déléguer | to delegate | day-lay-GAY
+example: J'apprends à déléguer. | I'm learning to delegate.
+vocab: permettre de | to allow, to enable | pehr-MEH-truh duh
+example: Ce poste me permet d'apprendre. | This job lets me learn.
+
+[grammar]
+grammar: Qui and que | Qui replaces the subject of the relative clause: un poste qui correspond à mes compétences. Que replaces the direct object: le travail que je commence. Before a vowel, que becomes qu': le travail qu'elle commence. With a composed tense, the participle agrees with the antecedent of que: les lettres que j'ai écrites.
+example: Un poste qui me plaît. | A job that I like.
+example: Le travail que je commence. | The work that I start.
+grammar: Answering interview questions | Be positive and specific. Say what you are looking for, what you are good at and what you are working on. Use vous with the interviewer and Merci pour cette opportunité to finish.
+example: Mes points forts sont l'organisation et l'écoute. | My strengths are organisation and listening.
+example: J'apprends à déléguer. | I'm learning to delegate.
+
+[quiz]
+quiz: Which pronoun fits? “un poste ___ correspond à mes compétences” | qui | que | quoi | dont | A | Qui = subject.
+quiz: Which pronoun fits? “le travail ___ je commence” | qui | que | où | dont | B | Que = direct object.
+quiz: What does “le point faible” mean? | strength | advantage | weakness | goal | C | Faible = weak.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

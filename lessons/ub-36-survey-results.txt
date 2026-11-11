@@ -1,0 +1,47 @@
+title: Survey Results
+episode: UB36
+scene: classroom
+
+[story]
+Adrien: Alors, qu'est-ce que le sondage a montré ? | So, what did the survey show?
+Marinette: Nous avons interrogé deux cents personnes. La moitié vient en transports en commun. | We asked two hundred people. Half come by public transport.
+Adrien: Et les autres ? | And the others?
+Marinette: Environ trente pour cent viennent à vélo et vingt pour cent en voiture. | About thirty percent come by bike and twenty percent by car.
+Adrien: La plupart des gens sont donc contents des transports ? | So most people are happy with transport?
+Marinette: Oui, plus de soixante-dix pour cent, mais un quart voudrait plus de bus. | Yes, more than seventy percent, but a quarter would like more buses.
+
+[vocab]
+vocab: le sondage | survey, poll | luh sohn-DAHZH
+example: Le sondage a montré ça. | The survey showed that.
+vocab: interroger | to ask, to survey | an-teh-roh-ZHAY
+example: Nous avons interrogé deux cents personnes. | We asked two hundred people.
+vocab: pour cent | percent | poor SAHN
+example: Trente pour cent. | Thirty percent.
+vocab: la moitié | half | lah mwah-TYAY
+example: La moitié des gens vient en métro. | Half the people come by metro.
+vocab: un quart | a quarter | uhn KAHR
+example: Un quart voudrait plus de bus. | A quarter would like more buses.
+vocab: un tiers | a third | uhn TYEHR
+example: Un tiers prend le vélo. | A third take the bike.
+vocab: la plupart de | most of | lah plew-PAHR duh
+example: La plupart des gens sont contents. | Most people are happy.
+vocab: la majorité | the majority | lah mah-zhoh-ree-TAY
+example: La majorité préfère le vélo. | The majority prefer the bike.
+vocab: environ | about, approximately | ahn-vee-ROHN
+example: Environ trente pour cent. | About thirty percent.
+
+[grammar]
+grammar: Percentages and fractions | Say percentages with pour cent: vingt pour cent, soixante-dix pour cent. Fractions: la moitié, un tiers, un quart, les trois quarts. Approximations: environ, à peu près, plus de, moins de plus number: plus de soixante-dix pour cent.
+example: Vingt pour cent viennent en voiture. | Twenty percent come by car.
+example: La moitié vient en métro. | Half come by metro.
+grammar: La plupart and la majorité | La plupart des plus plural noun means most: la plupart des gens sont contents. The verb is plural: la plupart des gens sont contents. La majorité des plus plural noun means the majority; the verb can be singular or plural. Une minorité is a minority.
+example: La plupart des gens sont contents. | Most people are happy.
+example: La majorité préfère le vélo. | The majority prefer the bike.
+
+[quiz]
+quiz: How do you say “half of the people”? | la moitié de les gens | la demi des gens | la moitié des gens | moitié gens | C | La moitié des + plural.
+quiz: What does “environ trente pour cent” mean? | exactly thirty percent | more than thirty percent | less than thirty percent | about thirty percent | D | Environ = about.
+quiz: What is “un quart”? | a quarter | a third | a half | three quarters | A | Un quart = 1/4.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

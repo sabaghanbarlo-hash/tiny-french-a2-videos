@@ -1,0 +1,47 @@
+title: Planning a Weekend Away
+episode: UB17
+scene: station
+
+[story]
+Marinette: Ce week-end, si tu veux, nous partirons à Marseille ! | This weekend, if you like, we'll go to Marseille!
+Adrien: Bonne idée ! Nous prendrons le train vendredi soir ? | Good idea! Shall we take the train on Friday evening?
+Marinette: Oui, et nous reviendrons dimanche après-midi. Je réserverai l'hôtel ce soir. | Yes, and we'll come back on Sunday afternoon. I'll book the hotel tonight.
+Adrien: Moi, j'achèterai les billets. Je serai à la gare avant midi. | I'll buy the tickets. I'll be at the station before noon.
+Marinette: Ensuite, nous visiterons le Vieux-Port et nous mangerons une bouillabaisse. | Then we'll visit the Old Port and eat a bouillabaisse.
+Adrien: On fera aussi une promenade en bateau, s'il fait beau ! | We'll also go on a boat trip, if the weather's nice!
+
+[vocab]
+vocab: partir en week-end | to go away for the weekend | pahr-TEER ahn wee-KEHND
+example: Nous partons en week-end. | We're going away for the weekend.
+vocab: réserver | to book | ray-zehr-VAY
+example: Je réserverai l'hôtel. | I'll book the hotel.
+vocab: le billet | ticket | luh bee-YEH
+example: J'achèterai les billets. | I'll buy the tickets.
+vocab: le Vieux-Port | the Old Port | luh vyuh-POHR
+example: Nous visiterons le Vieux-Port. | We'll visit the Old Port.
+vocab: la promenade en bateau | boat trip | lah proh-MAHD ahn bah-TOH
+example: On fera une promenade en bateau. | We'll go on a boat trip.
+vocab: la bouillabaisse | bouillabaisse (fish stew) | lah boo-yah-BEHSS
+example: Nous mangerons une bouillabaisse. | We'll eat a bouillabaisse.
+vocab: s'il fait beau | if the weather's nice | seel feh BOH
+example: S'il fait beau, on sort. | If it's nice, we'll go out.
+vocab: le week-end prochain | next weekend | luh wee-KEHND proh-SHAN
+example: Le week-end prochain, je pars. | Next weekend I'm leaving.
+vocab: avant midi | before noon | ah-VAHN mee-DEE
+example: Je serai là avant midi. | I'll be there before noon.
+
+[grammar]
+grammar: The futur simple | Take the infinitive and add ai, as, a, ons, ez, ont: je partirai, tu partiras, il partira, nous partirons, vous partirez, ils partiront. For -re verbs drop the final e: prendre becomes je prendrai. Irregular stems: être becomes ser-, avoir becomes aur-, aller becomes ir-, faire becomes fer-, venir becomes viendr-, pouvoir becomes pourr-, voir becomes verr-. The endings are always the same.
+example: Nous partirons vendredi. | We'll leave on Friday.
+example: Je serai à la gare avant midi. | I'll be at the station before noon.
+grammar: Si + present, then futur | To say what will happen if a condition is met, use si plus present in the condition and the futur in the result: s'il fait beau, on fera une promenade. Si becomes s' only before il / ils: s'il pleut, mais si elle vient. Do not use the futur after si.
+example: S'il fait beau, on sortira. | If it's nice, we'll go out.
+example: Si tu viens, je serai content. | If you come, I'll be happy.
+
+[quiz]
+quiz: How do you say “we will leave”? | nous partons demain | nous partirons | nous allons partons | nous partions | B | Futur: infinitive + ons.
+quiz: Which sentence is correct? | Si il fait beau, nous sortirons. | S'il fera beau, nous sortirons. | S'il fait beau, nous sortirons. | S'il fait beau, nous sortons demain à. | C | Si + present, then futur.
+quiz: What is the futur stem of “aller”? | all- | aller- | va- | ir- | D | J'irai, tu iras…
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

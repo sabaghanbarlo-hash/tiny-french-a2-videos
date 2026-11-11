@@ -1,0 +1,47 @@
+title: Lost and Found
+episode: UB20
+scene: station
+
+[story]
+Marinette: Bonjour, j'ai perdu mon sac dans le train ce matin. | Hello, I lost my bag on the train this morning.
+Adrien: Il était comment, votre sac ? | What was your bag like?
+Marinette: Il est noir, de taille moyenne, avec une petite poche devant. | It's black, medium-sized, with a small pocket on the front.
+Adrien: Qu'est-ce qu'il y avait dedans ? | What was in it?
+Marinette: Mon portefeuille, mes clés et mon téléphone. J'ai déjà appelé la banque pour bloquer ma carte. | My wallet, my keys and my phone. I've already called the bank to block my card.
+Adrien: Remplissez ce formulaire. Nous vous téléphonons si quelqu'un le trouve. | Fill in this form. We'll phone you if someone finds it.
+
+[vocab]
+vocab: perdre | to lose | PEHR-druh
+example: J'ai perdu mon sac. | I lost my bag.
+vocab: oublier | to forget, to leave behind | oo-blee-AY
+example: J'ai oublié mon parapluie. | I left my umbrella behind.
+vocab: trouver | to find | troo-VAY
+example: Quelqu'un a trouvé mon sac. | Someone found my bag.
+vocab: le portefeuille | wallet | luh pohrt-FUHY
+example: Mon portefeuille est dans mon sac. | My wallet is in my bag.
+vocab: la poche | pocket | lah POHSH
+example: Il y a une poche devant. | There's a pocket on the front.
+vocab: dedans | inside | duh-DAHN
+example: Qu'est-ce qu'il y avait dedans ? | What was in it?
+vocab: bloquer la carte | to block the card | bloh-KAY lah KART
+example: J'ai bloqué ma carte. | I've blocked my card.
+vocab: les objets trouvés | lost property | lay zohb-ZHEH troo-VAY
+example: Allez aux objets trouvés. | Go to lost property.
+vocab: voler | to steal | voh-LAY
+example: On m'a volé mon vélo. | My bike was stolen.
+
+[grammar]
+grammar: Lost, forgotten, found: passé composé | Use the passé composé with avoir: j'ai perdu, j'ai oublié, j'ai trouvé. Irregular participles to know: perdre becomes perdu, prendre becomes pris, voir becomes vu, mettre becomes mis, faire becomes fait. A past event with a present result is naturally in the passé composé: j'ai perdu mon sac.
+example: J'ai perdu mon sac. | I lost my bag.
+example: Elle a oublié son parapluie. | She left her umbrella behind.
+grammar: On m'a volé and describing objects | To say something was stolen, use on plus passé composé: on m'a volé mon vélo. Describe an object with colour, size, material and details. Indirect pronouns go before the verb: nous vous téléphonons.
+example: On m'a volé mon vélo. | My bike was stolen.
+example: Nous vous téléphonons. | We'll phone you.
+
+[quiz]
+quiz: How do you say “I lost my bag”? | Je suis perdu mon sac. | J'ai perdre mon sac. | J'ai perdu mon sac. | Je perdu mon sac. | C | Avoir + perdu.
+quiz: What does “dedans” mean? | outside | behind | next to | inside | D | Dedans = inside.
+quiz: What is the participle of “prendre”? | pris | prendu | pri | prend | A | Prendre → pris.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

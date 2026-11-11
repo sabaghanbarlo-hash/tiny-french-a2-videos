@@ -1,0 +1,47 @@
+title: Alike and Different
+episode: UB14
+scene: home
+
+[story]
+Marinette: Tu ressembles à ta sœur ? | Do you look like your sister?
+Adrien: Un peu, mais nous sommes très différents. Elle est plus sportive que moi. | A little, but we're very different. She's more sporty than me.
+Marinette: Vous avez les mêmes goûts ? | Do you have the same tastes?
+Adrien: Pas du tout. Elle aime le rock, moi je préfère la musique classique. | Not at all. She likes rock, I prefer classical music.
+Marinette: Et vous avez autant d'amis l'un que l'autre ? | And do you have as many friends as each other?
+Adrien: Oui, et nous avons le même humour. Sur ce point, nous sommes pareils ! | Yes, and we have the same sense of humour. On that point, we're alike!
+
+[vocab]
+vocab: le même / la même | the same | luh MEHM / lah MEHM
+example: Nous avons le même humour. | We have the same sense of humour.
+vocab: les mêmes | the same (plural) | lay MEHM
+example: Ils ont les mêmes goûts. | They have the same tastes.
+vocab: différent de | different from | dee-fay-RAHN duh
+example: Je suis différent de ma sœur. | I'm different from my sister.
+vocab: pareil / pareille | alike, the same | pah-REHY
+example: Nous sommes pareils. | We're alike.
+vocab: autant de… que | as much / as many… as | oh-TAHN duh… kuh
+example: Il a autant d'amis que moi. | He has as many friends as me.
+vocab: comme | like, as | KOHM
+example: Il est grand comme son père. | He's tall like his father.
+vocab: sportif / sportive | sporty | spohr-TEEF
+example: Elle est très sportive. | She is very sporty.
+vocab: le goût | taste | luh GOO
+example: Nous avons les mêmes goûts. | We have the same tastes.
+vocab: sur ce point | on this point | sewr suh PWAN
+example: Sur ce point, nous sommes d'accord. | On this point, we agree.
+
+[grammar]
+grammar: Le même, la même, les mêmes | Même means same and agrees with the noun: le même humour, la même ville, les mêmes goûts. Compare: pareil is used alone, il est pareil que moi, and with à: c'est pareil à hier. To say different, use différent de: je suis différent de ma sœur.
+example: Nous avons le même humour. | We have the same sense of humour.
+example: Ils ont les mêmes goûts. | They have the same tastes.
+grammar: Autant de… que and comme | Autant de plus noun plus que compares quantities: il a autant d'amis que moi, elle fait autant de sport que lui. Plus de que and moins de que work the same way. Comme means like: il est grand comme son père, comme moi.
+example: Il a autant d'amis que moi. | He has as many friends as me.
+example: Il est grand comme son père. | He's tall like his father.
+
+[quiz]
+quiz: How do you say “the same tastes”? | les mêmes goûts | les même goûts | le même goûts | mêmes les goûts | A | Même agrees with the plural.
+quiz: What does “autant d'amis que moi” mean? | more friends than me | as many friends as me | fewer friends than me | only my friends | B | Autant de… que = as many… as.
+quiz: Which sentence is correct? | Elle est plus sportive de moi. | Elle est plus sportive comme moi. | Elle est plus sportive que moi. | Elle est plus sportive qui moi. | C | Plus + adjective + que.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

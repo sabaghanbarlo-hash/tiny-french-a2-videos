@@ -1,0 +1,47 @@
+title: Future Plans
+episode: UB37
+scene: terrace
+
+[story]
+Adrien: Dans cinq ans, qu'est-ce que tu aimerais faire ? | In five years, what would you like to do?
+Marinette: J'ai l'intention d'ouvrir ma propre agence. J'espère avoir assez d'expérience d'ici là. | I intend to open my own agency. I hope to have enough experience by then.
+Adrien: C'est un beau projet. Tu comptes rester à Lyon ? | That's a great project. Do you plan to stay in Lyon?
+Marinette: Oui. J'ai envie d'acheter un petit appartement près du centre. | Yes. I feel like buying a small flat near the centre.
+Adrien: Moi, j'aimerais voyager pendant un an avant de me fixer. | I'd like to travel for a year before settling down.
+Marinette: L'année prochaine, on pourra déjà préparer notre premier voyage ensemble ! | Next year, we can already plan our first trip together!
+
+[vocab]
+vocab: le projet | project, plan | luh proh-ZHEH
+example: J'ai un beau projet. | I have a great project.
+vocab: j'aimerais | I would like | zheh-meh-REH
+example: J'aimerais voyager. | I'd like to travel.
+vocab: avoir envie de | to feel like, to want | ah-VWAHR ahn-VEE duh
+example: J'ai envie d'acheter un appartement. | I feel like buying a flat.
+vocab: avoir l'intention de | to intend to | ah-VWAHR lan-tahn-SYOHN duh
+example: J'ai l'intention d'ouvrir une agence. | I intend to open an agency.
+vocab: espérer | to hope | ehs-pay-RAY
+example: J'espère réussir. | I hope to succeed.
+vocab: compter + infinitif | to plan to | kohn-TAY
+example: Tu comptes rester à Lyon ? | Do you plan to stay in Lyon?
+vocab: ouvrir | to open | oo-VREER
+example: Je vais ouvrir une agence. | I'm going to open an agency.
+vocab: d'ici là | by then | dee-see LAH
+example: J'aurai de l'expérience d'ici là. | I'll have experience by then.
+vocab: l'année prochaine | next year | lah-NAY proh-SHEHN
+example: L'année prochaine, je pars. | Next year I'm leaving.
+
+[grammar]
+grammar: Expressing wishes and intentions | Use j'aimerais plus infinitive for a wish, j'ai envie de plus infinitive for something you feel like doing, j'ai l'intention de plus infinitive for a plan, j'espère plus infinitive when the subject is the same and je compte plus infinitive for what you expect to do. Time words: dans cinq ans, l'année prochaine, d'ici là, un jour.
+example: J'ai l'intention d'ouvrir une agence. | I intend to open an agency.
+example: J'espère avoir assez d'expérience. | I hope to have enough experience.
+grammar: Talking about the future | Choose between the present, aller plus infinitive, and the futur simple. For wishes, use the conditional: j'aimerais voyager, je voudrais acheter un appartement.
+example: Je partirai dans cinq ans. | I'll leave in five years.
+example: J'aimerais voyager un an. | I'd like to travel for a year.
+
+[quiz]
+quiz: How do you say “I intend to open an agency”? | J'ai intention ouvrir une agence. | J'ai l'intention d'ouvrir une agence. | Je suis l'intention d'ouvrir une agence. | J'ai l'intention à ouvrir une agence. | B | Avoir l'intention de + infinitive.
+quiz: What does “d'ici là” mean? | from here | until here | by then | since then | C | D'ici là = by that time.
+quiz: Which verb form expresses a polite wish? | j'aime | j'ai aimé | j'aimais | j'aimerais | D | Conditional = wish.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

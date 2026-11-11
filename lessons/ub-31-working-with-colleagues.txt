@@ -1,0 +1,47 @@
+title: Working With Colleagues
+episode: UB31
+scene: classroom
+
+[story]
+Adrien: Marinette, pouvez-vous m'envoyer le dossier avant midi ? | Marinette, can you send me the file before noon?
+Marinette: Bien sûr. Le chef m'a dit qu'il voulait le voir ce matin. | Of course. The boss told me he wanted to see it this morning.
+Adrien: Il nous a demandé de préparer la réunion aussi. | He also asked us to prepare the meeting.
+Marinette: Je sais. Il a dit que la réunion était reportée à jeudi. | I know. He said the meeting was postponed until Thursday.
+Adrien: Alors nous avons plus de temps. Je réponds au client en attendant. | Then we have more time. I'll reply to the client in the meantime.
+Marinette: Parfait. Je vous envoie le dossier dans dix minutes. | Perfect. I'll send you the file in ten minutes.
+
+[vocab]
+vocab: envoyer | to send | ahn-vwah-YAY
+example: Je vous envoie le dossier. | I'll send you the file.
+vocab: le dossier | file, folder | luh doh-SYAY
+example: Pouvez-vous envoyer le dossier ? | Can you send the file?
+vocab: répondre à | to reply to | ray-POHN-druh ah
+example: Je réponds au client. | I'm replying to the client.
+vocab: le client / la cliente | client, customer | luh klee-AHN
+example: Le client attend notre réponse. | The client is waiting for our reply.
+vocab: la réunion | meeting | lah ray-ew-NYOHN
+example: La réunion est à dix heures. | The meeting is at ten.
+vocab: reporter | to postpone | ruh-pohr-TAY
+example: La réunion est reportée. | The meeting is postponed.
+vocab: préparer | to prepare | pray-pah-RAY
+example: Nous préparons la réunion. | We're preparing the meeting.
+vocab: en attendant | in the meantime | ahn nah-tahn-DAHN
+example: En attendant, je réponds au client. | In the meantime, I'm replying to the client.
+vocab: avant midi | before noon | ah-VAHN mee-DEE
+example: Envoyez-le avant midi. | Send it before noon.
+
+[grammar]
+grammar: Reporting what was said | Dire que plus clause reports a statement. The tense of the verb after que goes one step back after a past verb: il a dit qu'il voulait, il a dit que la réunion était reportée. Demander à quelqu'un de plus infinitive reports a request: il nous a demandé de préparer la réunion.
+example: Il a dit qu'il voulait le voir. | He said he wanted to see it.
+example: Il nous a demandé de préparer la réunion. | He asked us to prepare the meeting.
+grammar: Polite requests at work | Use pouvez-vous plus infinitive, pourriez-vous plus infinitive and je voudrais que for polite requests: pouvez-vous m'envoyer le dossier ? Pourriez-vous répondre au client ? Use vous with colleagues you do not know well and tu in a friendly team. Finish with merci d'avance in an e-mail.
+example: Pouvez-vous m'envoyer le dossier ? | Can you send me the file?
+example: Pourriez-vous répondre au client ? | Could you reply to the client?
+
+[quiz]
+quiz: How do you report “Il veut le voir”? | Il a dit qu'il veut le voir hier. | Il dit qu'il voulait le voir. | Il a dit qui il voulait le voir. | Il a dit qu'il voulait le voir. | D | After a past verb, the imparfait.
+quiz: What does “reporter la réunion” mean? | to postpone the meeting | to report on the meeting | to cancel the meeting | to repeat the meeting | A | Reporter = postpone.
+quiz: What does “en attendant” mean? | at the end | in the meantime | in advance | after waiting | B | En attendant = meanwhile.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

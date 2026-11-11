@@ -1,0 +1,47 @@
+title: School Memories
+episode: UB8
+scene: classroom
+
+[story]
+Marinette: Tu te souviens de ton premier jour d'école ? | Do you remember your first day at school?
+Adrien: Oui, je me rappelle que je pleurais dans la cour de récréation. | Yes, I remember I was crying in the playground.
+Marinette: Moi, je me souviens surtout de la maîtresse. Elle était très gentille. | I especially remember the teacher. She was very kind.
+Adrien: On mangeait à la cantine tous les jours. Le jeudi, il y avait toujours des frites ! | We ate in the canteen every day. On Thursdays there were always fries!
+Marinette: Et les devoirs ? De temps en temps, j'oubliais mon cahier. | And homework? From time to time I forgot my notebook.
+Adrien: Moi aussi ! C'étaient de bons souvenirs, finalement. | Me too! They were good memories after all.
+
+[vocab]
+vocab: se souvenir de | to remember | suh soov-NEER duh
+example: Je me souviens de mon école. | I remember my school.
+vocab: se rappeler | to remember, to recall | suh rah-PLAY
+example: Je me rappelle ce jour. | I remember that day.
+vocab: le souvenir | memory | luh soov-NEER
+example: C'est un bon souvenir. | It's a good memory.
+vocab: la cour de récréation | playground | lah koor duh ray-kray-ah-SYOHN
+example: Les enfants jouent dans la cour. | The children play in the playground.
+vocab: la maîtresse | (primary school) teacher | lah meh-TREHSS
+example: La maîtresse était gentille. | The teacher was kind.
+vocab: la cantine | canteen, school lunch hall | lah kahn-TEEN
+example: On mangeait à la cantine. | We ate in the canteen.
+vocab: les devoirs | homework | lay duh-VWAHR
+example: Je faisais mes devoirs le soir. | I did my homework in the evening.
+vocab: oublier | to forget | oo-blee-AY
+example: J'oubliais souvent mon cahier. | I often forgot my notebook.
+vocab: de temps en temps | from time to time | duh tahn zahn TAHN
+example: De temps en temps, j'oubliais. | From time to time, I forgot.
+
+[grammar]
+grammar: Se souvenir and se rappeler | Se souvenir de plus noun or infinitive: je me souviens de mon école. Se rappeler takes a direct object: je me rappelle ce jour, je me rappelle que je pleurais. Conjugate like a reflexive verb: je me souviens, tu te souviens, il se souvient, nous nous souvenons. Ask Tu te souviens de ?
+example: Je me souviens de mon école. | I remember my school.
+example: Je me rappelle ce jour. | I remember that day.
+grammar: Habits in the past | Use the imparfait with frequency words to describe school life: tous les jours, chaque semaine, le jeudi, souvent, parfois, de temps en temps, toujours. On mangeait à la cantine tous les jours. Le jeudi, il y avait des frites.
+example: Le jeudi, on mangeait des frites. | On Thursdays we ate fries.
+example: De temps en temps, j'oubliais mon cahier. | From time to time I forgot my notebook.
+
+[quiz]
+quiz: How do you say “I remember my school”? | Je souviens mon école. | Je me souviens mon école. | Je me souviens de mon école. | Je me souvenir de mon école. | C | Se souvenir de + noun.
+quiz: Which tense do you use to describe school habits? | passé composé | futur | impératif | imparfait | D | Habits in the past use the imparfait.
+quiz: What does “de temps en temps” mean? | from time to time | all the time | never | at that time | A | De temps en temps = occasionally.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

@@ -1,0 +1,47 @@
+title: Work and Life
+episode: UB32
+scene: terrace
+
+[story]
+Marinette: Tu travailles de chez toi, maintenant ? | Do you work from home now?
+Adrien: Deux jours par semaine. Je gagne du temps parce que je n'ai plus de transport. | Two days a week. I save time because I no longer have the commute.
+Marinette: Moi, je préfère le bureau. Comme j'habite seule, j'aime voir mes collègues. | I prefer the office. As I live alone, I like seeing my colleagues.
+Adrien: Grâce au télétravail, je commence plus tard et je finis plus tôt. | Thanks to working from home, I start later and finish earlier.
+Marinette: Donc tu as plus de temps libre ? | So you have more free time?
+Adrien: Oui, mais je ne dois pas travailler le soir. Il faut garder un équilibre. | Yes, but I mustn't work in the evening. You need to keep a balance.
+
+[vocab]
+vocab: le télétravail | working from home | luh tay-lay-trah-VAHY
+example: Je fais du télétravail deux jours par semaine. | I work from home two days a week.
+vocab: l'équilibre | balance | lay-kee-LEE-bruh
+example: Il faut garder un équilibre. | You need to keep a balance.
+vocab: les horaires | working hours | lay zoh-REHR
+example: Mes horaires sont flexibles. | My hours are flexible.
+vocab: gagner du temps | to save time | gah-NYAY dew TAHN
+example: Je gagne du temps. | I save time.
+vocab: parce que | because | pahrs-KUH
+example: Je reste parce que j'aime mon travail. | I stay because I like my job.
+vocab: comme | as, since (reason) | KOHM
+example: Comme il pleut, je reste. | As it's raining, I'm staying.
+vocab: grâce à | thanks to | GRAHSS ah
+example: Grâce au télétravail, j'ai du temps. | Thanks to remote work, I have time.
+vocab: donc | so, therefore | DOHNK
+example: Donc tu as plus de temps. | So you have more time.
+vocab: le temps libre | free time | luh tahn LEE-bruh
+example: J'ai plus de temps libre. | I have more free time.
+
+[grammar]
+grammar: Giving reasons | Parce que plus clause answers pourquoi: je reste parce que j'aime mon travail. Comme plus clause at the start gives a reason that the listener may already know: comme il pleut, je reste. À cause de plus noun gives a negative reason: à cause du bruit. Grâce à plus noun gives a positive reason: grâce au télétravail. Pourquoi ? Parce que
+example: Je reste parce que j'aime mon travail. | I stay because I like my job.
+example: Grâce au télétravail, j'ai plus de temps. | Thanks to remote work, I have more time.
+grammar: Giving results | Donc and alors introduce a result: il y a moins de transport, donc je gagne du temps. They do not change the word order. Compare: parce que gives the cause, donc gives the consequence. In speaking you often hear du coup.
+example: Je gagne du temps, donc je suis moins fatigué. | I save time, so I'm less tired.
+example: Il pleut, alors je reste. | It's raining, so I'm staying.
+
+[quiz]
+quiz: Which word introduces a positive reason? | à cause de | donc | grâce à | alors | C | Grâce à = thanks to.
+quiz: Which sentence gives a result? | Je suis fatigué parce que je gagne du temps. | Comme je suis fatigué, je gagne du temps. | À cause du temps, je suis fatigué. | Je gagne du temps, donc je suis moins fatigué. | D | Donc = therefore.
+quiz: What does “le télétravail” mean? | working from home | part-time work | night shifts | business trips | A | Télétravail = remote work.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

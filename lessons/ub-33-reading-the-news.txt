@@ -1,0 +1,47 @@
+title: Reading the News
+episode: UB33
+scene: cafe
+
+[story]
+Adrien: Tu as lu les informations ce matin ? | Did you read the news this morning?
+Marinette: Oui. Selon le journal, la mairie a ouvert un nouveau parc près de la gare. | Yes. According to the paper, the town hall has opened a new park near the station.
+Adrien: Ah oui ? Moi, j'ai entendu à la radio qu'il y avait des travaux dans toute la rue. | Oh really? I heard on the radio that there was roadwork all along the street.
+Marinette: Il paraît que les travaux vont durer deux mois. | Apparently the roadwork will last two months.
+Adrien: D'après les réseaux sociaux, les habitants ne sont pas contents. | According to social media, the residents aren't happy.
+Marinette: Il faut vérifier l'information avant de la partager. | You have to check the information before sharing it.
+
+[vocab]
+vocab: les informations | the news | lay zan-fohr-mah-SYOHN
+example: Je regarde les informations. | I watch the news.
+vocab: le journal | newspaper, news | luh zhoor-NAHL
+example: Je lis le journal. | I read the newspaper.
+vocab: selon | according to | suh-LOHN
+example: Selon le journal, il pleuvra. | According to the paper, it will rain.
+vocab: d'après | according to | dah-PREH
+example: D'après la radio, il y a des travaux. | According to the radio, there is roadwork.
+vocab: il paraît que | apparently | eel pah-REH kuh
+example: Il paraît que le parc est ouvert. | Apparently the park is open.
+vocab: les réseaux sociaux | social media | lay ray-ZOH soh-SYOH
+example: Je lis les réseaux sociaux. | I read social media.
+vocab: la mairie | town hall | lah meh-REE
+example: La mairie a ouvert un parc. | The town hall opened a park.
+vocab: les travaux | roadwork, building work | lay trah-VOH
+example: Il y a des travaux dans la rue. | There's roadwork in the street.
+vocab: vérifier | to check, to verify | vay-ree-FYAY
+example: Il faut vérifier l'information. | You have to check the information.
+
+[grammar]
+grammar: Giving a source | Use selon plus source or d'après plus source to say where information comes from: selon le journal, d'après la radio, selon la mairie. After il paraît que and on dit que, use a normal clause: il paraît que les travaux vont durer deux mois. These show that you are repeating something, not claiming it yourself.
+example: Selon le journal, il pleuvra. | According to the paper, it will rain.
+example: Il paraît que le parc est ouvert. | Apparently the park is open.
+grammar: Summarising a story | A news summary uses the passé composé for events, the imparfait for the background, and the present for facts that are still true. Use d'abord, ensuite, finalement to order events.
+example: La mairie a ouvert un parc. | The town hall opened a park.
+example: Il y avait des travaux. | There was roadwork.
+
+[quiz]
+quiz: Which expression means “according to”? | pendant | selon | donc | sans | B | Selon = according to.
+quiz: What does “Il paraît que…” mean? | He appears… | It seems to me… | Apparently… | It will be… | C | Il paraît que = apparently.
+quiz: Which tense do you use for a news event that happened? | futur | impératif | conditionnel | passé composé | D | Events = passé composé.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

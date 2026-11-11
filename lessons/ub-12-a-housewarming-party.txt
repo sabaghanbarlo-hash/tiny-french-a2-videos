@@ -1,0 +1,47 @@
+title: A Housewarming Party
+episode: UB12
+scene: home
+
+[story]
+Adrien: Tu m'invites à ta pendaison de crémaillère ? | Are you inviting me to your housewarming?
+Marinette: Bien sûr ! Je t'ai écrit un message hier. Je te donne l'adresse. | Of course! I wrote you a message yesterday. I'll give you the address.
+Adrien: Qu'est-ce que je peux t'apporter ? | What can I bring you?
+Marinette: Apporte-moi quelque chose à boire, ça suffit. | Bring me something to drink, that's enough.
+Adrien: Et les voisins ? Tu leur as demandé de venir ? | And the neighbours? Did you ask them to come?
+Marinette: Oui, je leur ai parlé hier. Ils arrivent à vingt heures. | Yes, I spoke to them yesterday. They arrive at eight p.m.
+
+[vocab]
+vocab: la pendaison de crémaillère | housewarming party | lah pahn-deh-ZOHN duh kray-mah-YEHR
+example: On fait une pendaison de crémaillère. | We're having a housewarming party.
+vocab: inviter | to invite | an-vee-TAY
+example: Je t'invite à ma fête. | I'm inviting you to my party.
+vocab: apporter | to bring | ah-pohr-TAY
+example: Qu'est-ce que je peux apporter ? | What can I bring?
+vocab: écrire à | to write to | ay-KREER ah
+example: Je t'ai écrit un message. | I wrote you a message.
+vocab: donner à | to give to | doh-NAY ah
+example: Je te donne l'adresse. | I'll give you the address.
+vocab: demander à | to ask (someone) | duh-mahn-DAY ah
+example: Je leur ai demandé de venir. | I asked them to come.
+vocab: parler à | to speak to | pahr-LAY ah
+example: Je leur ai parlé hier. | I spoke to them yesterday.
+vocab: quelque chose à boire | something to drink | kehl-kuh SHOHZ ah BWAHR
+example: Apporte quelque chose à boire. | Bring something to drink.
+vocab: ça suffit | that's enough | sah sew-FEE
+example: Une bouteille, ça suffit. | One bottle is enough.
+
+[grammar]
+grammar: Indirect object pronouns | Verbs followed by à plus a person use indirect pronouns: me, te, lui, nous, vous, leur. They go before the verb: je t'ai écrit, je lui parle, je leur ai demandé. Lui and leur do not change for gender, and the past participle does not agree with them.
+example: Je lui parle demain. | I'll speak to him / her tomorrow.
+example: Je leur ai demandé de venir. | I asked them to come.
+grammar: Commands with pronouns | In an affirmative command the pronoun comes after the verb with a hyphen, and me becomes moi: apporte-moi, donne-lui, écris-leur. In a negative command it stays before the verb: ne me donne pas, ne lui parle pas.
+example: Apporte-moi quelque chose. | Bring me something.
+example: Ne leur dis rien. | Don't tell them anything.
+
+[quiz]
+quiz: How do you say “I wrote you a message”? | Je te écrit un message. | J'ai t'écrit un message. | Je t'ai écrit un message. | Je t'écrit un message ai. | C | Te becomes t' before a vowel and goes before the auxiliary.
+quiz: Which command is correct? | Apporte-me quelque chose. | Moi apporte quelque chose. | Apporte à moi quelque chose. | Apporte-moi quelque chose. | D | me → moi after the verb.
+quiz: Which pronoun replaces “à Marinette”? | lui | la | leur | le | A | Lui = to him / to her.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

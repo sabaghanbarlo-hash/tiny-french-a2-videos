@@ -1,0 +1,47 @@
+title: Being a Good Neighbour
+episode: UB10
+scene: home
+
+[story]
+Marinette: Excusez-moi de vous déranger. La musique est un peu forte. | Sorry to disturb you. The music is a bit loud.
+Adrien: Oh, pardon ! Je ne savais pas que vous dormiez. | Oh, sorry! I didn't know you were asleep.
+Marinette: Pourriez-vous la baisser, s'il vous plaît ? | Could you turn it down, please?
+Adrien: Bien sûr, je la baisse tout de suite. | Of course, I'm turning it down right away.
+Marinette: Merci. Dans l'immeuble, il est interdit de faire du bruit après vingt-deux heures. | Thank you. In the building, it's forbidden to make noise after ten p.m.
+Adrien: D'accord. Ne vous inquiétez pas, ça n'arrivera plus. | OK. Don't worry, it won't happen again.
+
+[vocab]
+vocab: déranger | to disturb | day-rahn-ZHAY
+example: Excusez-moi de vous déranger. | Sorry to disturb you.
+vocab: la musique | music | lah mew-ZEEK
+example: La musique est trop forte. | The music is too loud.
+vocab: baisser | to turn down, lower | beh-SAY
+example: Pouvez-vous baisser la musique ? | Can you turn the music down?
+vocab: le bruit | noise | luh BRWEE
+example: Il y a beaucoup de bruit. | There's a lot of noise.
+vocab: interdit | forbidden | an-tehr-DEE
+example: Il est interdit de fumer. | Smoking is forbidden.
+vocab: le règlement | rules, regulations | luh reh-gluh-MAHN
+example: C'est dans le règlement de l'immeuble. | It's in the building's rules.
+vocab: le voisin / la voisine | neighbour | luh vwah-ZAN
+example: Mon voisin est très gentil. | My neighbour is very kind.
+vocab: tout de suite | right away | too duh SWEET
+example: Je viens tout de suite. | I'm coming right away.
+vocab: s'inquiéter | to worry | san-kyay-TAY
+example: Ne vous inquiétez pas. | Don't worry.
+
+[grammar]
+grammar: Il est interdit de + infinitive | To state a rule, use il est interdit de plus infinitive: il est interdit de fumer, il est interdit de faire du bruit. Another way is défense de plus infinitive on signs. For permission, use il est permis de or on peut: on peut laisser les vélos ici.
+example: Il est interdit de fumer. | Smoking is forbidden.
+example: On peut laisser les vélos ici. | You can leave bicycles here.
+grammar: Negative commands and pronouns | A negative command puts ne pas around the verb: ne faites pas de bruit, ne vous inquiétez pas. A pronoun replacing a noun goes before the verb: je la baisse. With two verbs it goes before the infinitive: pourriez-vous la baisser ?
+example: Ne faites pas de bruit. | Don't make noise.
+example: Pourriez-vous la baisser ? | Could you turn it down?
+
+[quiz]
+quiz: Which sentence politely asks a neighbour to turn the music down? | Pourriez-vous la baisser, s'il vous plaît ? | Baissez la musique ! | Vous la baissez pas ? | Je veux que vous baissiez. | A | Pourriez-vous + pronoun + infinitive.
+quiz: What does “il est interdit de” introduce? | a polite offer | a rule that forbids something | a time of day | a question | B | Interdit = forbidden.
+quiz: Where does “la” go in: “Je ___ baisse” (the music)? | after the verb | at the end | before the verb | before the subject | C | Pronouns go before the verb.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

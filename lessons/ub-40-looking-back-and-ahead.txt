@@ -1,0 +1,47 @@
+title: Looking Back and Ahead
+episode: UB40
+scene: eiffel
+
+[story]
+Adrien: Cette année, tu as changé de ville et de travail. Comment tu te sens ? | This year, you changed city and job. How do you feel?
+Marinette: Bien ! L'année dernière, j'habitais à Paris et je ne connaissais personne ici. | Good! Last year, I lived in Paris and I didn't know anyone here.
+Adrien: Maintenant, tu as un appartement, des collègues et un groupe d'amis. | Now you have a flat, colleagues and a group of friends.
+Marinette: Oui, et je parle français avec beaucoup plus de confiance qu'avant. | Yes, and I speak French with much more confidence than before.
+Adrien: L'année prochaine, tu vas ouvrir ton agence ? Si tu y arrives, tu seras très fière. | Next year, are you going to open your agency? If you do it, you'll be very proud.
+Marinette: Je l'espère. Et toi, tu partiras voyager ? Bravo pour tout ce que tu as appris ! | I hope so. And you, will you go travelling? Well done for everything you've learned!
+
+[vocab]
+vocab: changer de ville | to move to a different city | shahn-ZHAY duh VEEL
+example: J'ai changé de ville. | I moved to a different city.
+vocab: l'année dernière | last year | lah-NAY dehr-NYEHR
+example: L'année dernière, j'habitais à Paris. | Last year, I lived in Paris.
+vocab: cette année | this year | seht ah-NAY
+example: Cette année, j'ai appris beaucoup. | This year, I've learned a lot.
+vocab: la confiance | confidence | lah kohn-FYAHNSS
+example: Je parle avec confiance. | I speak with confidence.
+vocab: fier / fière | proud | FYEHR
+example: Tu seras très fière. | You'll be very proud.
+vocab: réussir | to succeed | ray-ew-SEER
+example: Si tu y arrives, tu réussiras. | If you manage it, you'll succeed.
+vocab: bravo | well done | brah-VOH
+example: Bravo pour ton travail ! | Well done on your work!
+vocab: félicitations | congratulations | fay-lee-see-tah-SYOHN
+example: Félicitations pour ton diplôme ! | Congratulations on your degree!
+vocab: bonne continuation | all the best, keep it up | bohn kohn-tee-new-ah-SYOHN
+example: Merci, bonne continuation ! | Thanks, all the best!
+
+[grammar]
+grammar: Choosing the right tense | Use the passé composé for events and changes, the imparfait for habits and background in the past, the présent for now, aller plus infinitive for the near future, the futur simple for the further future, and the conditionnel for wishes and unreal situations.
+example: J'ai changé de ville. | I moved to a different city.
+example: Si tu y arrives, tu seras fière. | If you manage it, you'll be proud.
+grammar: Congratulating and ending a conversation | Congratulate with bravo, félicitations and with pour: félicitations pour ton diplôme. Wish someone well with bonne continuation, bonne chance, à bientôt. Thank someone with merci pour tout, merci pour ton aide. You are now ready for A2 and for the next level of French.
+example: Félicitations pour ton travail ! | Congratulations on your work!
+example: Bonne continuation ! | All the best!
+
+[quiz]
+quiz: Which tense do you use for a habit in the past? | passé composé | futur simple | imparfait | conditionnel | C | Habits in the past = imparfait.
+quiz: Which sentence is correct? | Si tu y arriveras, tu seras fière. | Si tu y arrivais, tu seras fière. | Si tu y arrives, tu serais fière. | Si tu y arrives, tu seras fière. | D | Si + present, futur.
+quiz: What does “bonne continuation” mean? | all the best, keep going | good morning | goodbye forever | welcome back | A | Bonne continuation = all the best.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

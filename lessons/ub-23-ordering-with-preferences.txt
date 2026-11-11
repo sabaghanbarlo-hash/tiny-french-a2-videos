@@ -1,0 +1,48 @@
+title: Ordering With Preferences
+episode: UB23
+scene: restaurant
+
+[story]
+Adrien: Je suis végétarien. Y a-t-il un plat sans viande ? | I'm vegetarian. Is there a dish without meat?
+Marinette: Oui, le plat du jour est une tarte aux légumes. | Yes, the dish of the day is a vegetable tart.
+Adrien: Parfait. Et pour commencer, une soupe, mais sans crème, s'il vous plaît. | Perfect. And to start, a soup, but without cream, please.
+Marinette: Très bien. Et comme boisson ? | Very good. And to drink?
+Adrien: Plutôt de l'eau que du vin. Merci. | Water rather than wine. Thank you.
+Adrien: Excusez-moi, la soupe est un peu trop salée. | Excuse me, the soup is a little too salty.
+Marinette: Je suis désolée. Je vous en apporte une autre tout de suite. | I'm sorry. I'll bring you another one right away.
+
+[vocab]
+vocab: végétarien / végétarienne | vegetarian | vay-zhay-tah-RYAN
+example: Je suis végétarien. | I'm vegetarian.
+vocab: la viande | meat | lah VYAHND
+example: Un plat sans viande. | A dish without meat.
+vocab: sans | without | SAHN
+example: Une soupe sans crème. | A soup without cream.
+vocab: le plat du jour | dish of the day | luh plah dew ZHOOR
+example: Le plat du jour est une tarte. | The dish of the day is a tart.
+vocab: la soupe | soup | lah SOOP
+example: La soupe est chaude. | The soup is hot.
+vocab: la crème | cream | lah KREHM
+example: Sans crème, s'il vous plaît. | Without cream, please.
+vocab: salé / salée | salty | sah-LAY
+example: La soupe est trop salée. | The soup is too salty.
+vocab: pas assez cuit | not cooked enough | pah zah-SAY KWEE
+example: Le poulet n'est pas assez cuit. | The chicken isn't cooked enough.
+vocab: plutôt… que | rather… than | plew-TOH… kuh
+example: Plutôt de l'eau que du vin. | Water rather than wine.
+
+[grammar]
+grammar: Sans, plutôt… que | Sans plus noun with no article: sans viande, sans crème, sans sucre. The opposite is avec: avec du fromage. Plutôt que compares two choices: plutôt de l'eau que du vin, plutôt le poisson que la viande. To say you cannot eat something: je ne mange pas de viande, je suis allergique à.
+example: Une soupe sans crème. | A soup without cream.
+example: Plutôt du thé que du café. | Tea rather than coffee.
+grammar: Trop, assez, pas assez | Trop, assez, pas assez go before the adjective: trop salé, assez chaud, pas assez cuit. To complain politely: Excusez-moi, c'est un peu trop salé. Je suis désolé, mais ce n'est pas assez cuit.
+example: C'est un peu trop salé. | It's a little too salty.
+example: Ce n'est pas assez cuit. | It's not cooked enough.
+
+[quiz]
+quiz: How do you say “a soup without cream”? | une soupe sans de crème | une soupe sans la crème | une soupe sans des crème | une soupe sans crème | D | No article after sans.
+quiz: What does “pas assez cuit” mean? | not cooked enough | overcooked | very hot | burnt | A | Assez = enough.
+quiz: What does “plutôt de l'eau que du vin” mean? | water and wine | water rather than wine | more water than wine | no water or wine | B | Plutôt… que = rather than.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

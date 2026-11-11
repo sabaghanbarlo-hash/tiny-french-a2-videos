@@ -1,0 +1,47 @@
+title: Fixing a Problem at Home
+episode: UB11
+scene: home
+
+[story]
+Marinette: Allô, Adrien ? C'est Marinette, du troisième étage. Il y a une fuite dans la salle de bains. | Hello, Adrien? It's Marinette, from the third floor. There's a leak in the bathroom.
+Adrien: Depuis quand ? | Since when?
+Marinette: Depuis hier soir. J'ai fermé le robinet, mais l'eau coule encore. | Since last night. I turned off the tap, but the water is still running.
+Adrien: Je préviens le plombier. Il peut passer demain matin ? | I'll tell the plumber. Can he come tomorrow morning?
+Marinette: Oui, je suis là toute la matinée. Le chauffage ne marche pas non plus. | Yes, I'm in all morning. The heating isn't working either.
+Adrien: Je l'ai déjà signalé. Ils vont le réparer cette semaine. | I've already reported it. They'll repair it this week.
+
+[vocab]
+vocab: la fuite | leak | lah FWEET
+example: Il y a une fuite d'eau. | There's a water leak.
+vocab: le robinet | tap | luh roh-bee-NEH
+example: Le robinet coule. | The tap is running.
+vocab: couler | to run, to flow | koo-LAY
+example: L'eau coule encore. | The water is still running.
+vocab: le plombier | plumber | luh plohm-BYAY
+example: Le plombier passe demain. | The plumber is coming tomorrow.
+vocab: le chauffage | heating | luh shoh-FAHZH
+example: Le chauffage ne marche pas. | The heating isn't working.
+vocab: marcher | to work (a machine) | mar-SHAY
+example: Ça ne marche pas. | It doesn't work.
+vocab: être en panne | to be broken down | EH-truh ahn PAHN
+example: L'ascenseur est en panne. | The lift is out of order.
+vocab: réparer | to repair | ray-pah-RAY
+example: Il va réparer le robinet. | He's going to repair the tap.
+vocab: signaler | to report | see-nyah-LAY
+example: J'ai signalé le problème. | I've reported the problem.
+
+[grammar]
+grammar: Reporting a problem | Say what is wrong with il y a plus noun, ça ne marche pas, est en panne or ne marche pas. Say since when with depuis. To arrange a repair: Il peut passer demain matin ? Je suis là toute la matinée.
+example: Le chauffage ne marche pas. | The heating isn't working.
+example: L'ascenseur est en panne. | The lift is out of order.
+grammar: Le, la, l', les as direct objects | A direct object pronoun replaces a noun and goes before the verb: le plombier becomes je le préviens, la fuite becomes je l'ai signalée, les robinets becomes je les répare. In the passé composé it goes before avoir, and the participle agrees: je l'ai signalée, je les ai réparés.
+example: Je le préviens. | I'll tell him.
+example: Je l'ai signalée. | I reported it.
+
+[quiz]
+quiz: Which sentence means “The heating doesn't work”? | Le chauffage ne travaille pas. | Le chauffage ne va pas marche. | Le chauffage marche pas ne. | Le chauffage ne marche pas. | D | Marcher = to work.
+quiz: Which pronoun replaces “la fuite”? | la | le | les | lui | A | Fuite is feminine singular.
+quiz: What does “être en panne” mean? | to be on time | to be out of order | to be in the way | to be very old | B | En panne = broken down.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

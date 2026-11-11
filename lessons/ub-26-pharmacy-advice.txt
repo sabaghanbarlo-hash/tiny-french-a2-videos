@@ -1,0 +1,47 @@
+title: At the Pharmacy
+episode: UB26
+scene: store
+
+[story]
+Marinette: Bonjour, j'ai de la toux et mal à la gorge. Qu'est-ce que vous me conseillez ? | Hello, I have a cough and a sore throat. What do you recommend?
+Adrien: Je vous conseille de prendre ce sirop. Prenez-en une cuillère trois fois par jour. | I recommend you take this syrup. Take a spoonful three times a day.
+Marinette: Pendant combien de temps ? | For how long?
+Adrien: Pendant cinq jours, avec un grand verre d'eau. | For five days, with a big glass of water.
+Marinette: Il me faut une ordonnance ? | Do I need a prescription?
+Adrien: Non, c'est sans ordonnance. Si ça ne va pas mieux, voyez un médecin. | No, it's over the counter. If you're not better, see a doctor.
+
+[vocab]
+vocab: la pharmacie | pharmacy | lah far-mah-SEE
+example: La pharmacie est ouverte. | The pharmacy is open.
+vocab: le sirop | syrup, cough syrup | luh see-ROH
+example: Prenez ce sirop. | Take this syrup.
+vocab: le comprimé | tablet | luh kohn-pree-MAY
+example: Un comprimé par jour. | One tablet a day.
+vocab: l'ordonnance | prescription | lohr-doh-NAHNSS
+example: Il faut une ordonnance. | You need a prescription.
+vocab: sans ordonnance | over the counter | sahn zohr-doh-NAHNSS
+example: C'est sans ordonnance. | It's over the counter.
+vocab: conseiller | to advise, recommend | kohn-say-YAY
+example: Je vous conseille ce sirop. | I recommend this syrup.
+vocab: trois fois par jour | three times a day | trwah FWAH pahr ZHOOR
+example: Prenez-le trois fois par jour. | Take it three times a day.
+vocab: pendant cinq jours | for five days | pahn-DAHN san ZHOOR
+example: Pendant cinq jours. | For five days.
+vocab: un effet secondaire | side effect | uhn eh-FEH suh-kohn-DEHR
+example: Il y a peu d'effets secondaires. | There are few side effects.
+
+[grammar]
+grammar: Conseiller à quelqu'un de + infinitive | To recommend something, use conseiller à quelqu'un de plus infinitive: je vous conseille de prendre ce sirop, je te conseille de te reposer. With a noun: je vous conseille ce sirop. The person is an indirect object: lui, leur, me, te, vous: elle me conseille de dormir.
+example: Je vous conseille de prendre ce sirop. | I recommend you take this syrup.
+example: Elle me conseille de me reposer. | She advises me to rest.
+grammar: How often and for how long | Say how often with fois par jour / par semaine: trois fois par jour, deux fois par semaine. Say how long with pendant: pendant cinq jours. Say how much with une cuillère, un comprimé. The pronoun en replaces the medicine: prenez-en une cuillère.
+example: Trois fois par jour. | Three times a day.
+example: Prenez-en une cuillère. | Take a spoonful of it.
+
+[quiz]
+quiz: How do you say “I recommend you take this syrup”? | Je vous conseille de prendre ce sirop. | Je vous conseille prendre ce sirop. | Je vous conseille à prendre ce sirop. | Je conseille vous de prendre ce sirop. | A | Conseiller à quelqu'un de + infinitive.
+quiz: What does “sans ordonnance” mean? | with prescription | over the counter | free of charge | out of stock | B | Sans ordonnance = no prescription needed.
+quiz: What does “pendant cinq jours” mean? | in five days | five days ago | for five days | since five days | C | Pendant = for (a duration).
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

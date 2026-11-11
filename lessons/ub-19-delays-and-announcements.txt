@@ -1,0 +1,47 @@
+title: Delays and Announcements
+episode: UB19
+scene: station
+
+[story]
+Marinette: Excusez-moi, le vol pour Marseille part bien à quatorze heures ? | Excuse me, does the flight to Marseille leave at two p.m.?
+Adrien: Non, il a du retard. Il vient de changer de porte : porte douze. | No, it's delayed. It has just changed gate: gate twelve.
+Marinette: Quand est-ce que l'embarquement commence ? | When does boarding start?
+Adrien: Il va commencer dans trente minutes. Vous avez un bagage à main ? | It's going to start in thirty minutes. Do you have hand luggage?
+Marinette: Oui, une petite valise. Elle peut passer en cabine ? | Yes, a small suitcase. Can it go in the cabin?
+Adrien: Oui, si elle fait moins de dix kilos. N'oubliez pas votre carte d'embarquement. | Yes, if it weighs under ten kilos. Don't forget your boarding pass.
+
+[vocab]
+vocab: le vol | flight | luh VOHL
+example: Le vol part à quatorze heures. | The flight leaves at two p.m.
+vocab: le retard | delay | luh ruh-TAHR
+example: Le vol a du retard. | The flight is delayed.
+vocab: la porte | gate, door | lah POHRT
+example: Porte douze. | Gate twelve.
+vocab: l'embarquement | boarding | lahn-bahr-kuh-MAHN
+example: L'embarquement commence. | Boarding is starting.
+vocab: le bagage à main | hand luggage | luh bah-GAHZH ah MAN
+example: J'ai un bagage à main. | I have hand luggage.
+vocab: la cabine | cabin | lah kah-BEEN
+example: La valise passe en cabine. | The suitcase goes in the cabin.
+vocab: la carte d'embarquement | boarding pass | lah kart dahn-bahr-kuh-MAHN
+example: Voici ma carte d'embarquement. | Here is my boarding pass.
+vocab: annuler un vol | to cancel a flight | ah-new-LAY uhn VOHL
+example: Le vol a été annulé. | The flight has been cancelled.
+vocab: dans trente minutes | in thirty minutes | dahn trahnt mee-NEWT
+example: Dans trente minutes, on part. | In thirty minutes, we leave.
+
+[grammar]
+grammar: Venir de + infinitive | Venir de plus infinitive says that something has just happened: il vient de changer de porte, nous venons d'arriver, je viens de recevoir un message. Venir is in the present: je viens, tu viens, il vient, nous venons, vous venez, ils viennent. Compare with aller plus infinitive for what is about to happen: il va commencer.
+example: Il vient de changer de porte. | It has just changed gate.
+example: Nous venons d'arriver. | We have just arrived.
+grammar: Reading announcements | Announcements often use the present and the near future: le vol part à quatorze heures, l'embarquement va commencer, veuillez vous présenter porte douze. Expressions: retardé, annulé, à l'heure, en retard, dans plus duration.
+example: Le vol est retardé. | The flight is delayed.
+example: L'embarquement va commencer. | Boarding is about to start.
+
+[quiz]
+quiz: How do you say “It has just changed gate”? | Il va changer de porte. | Il a venu changer de porte. | Il vient changer de porte hier. | Il vient de changer de porte. | D | Venir de + infinitive = has just.
+quiz: What does “Il va commencer” mean? | It is about to start | It has just started | It started yesterday | It never starts | A | Aller + infinitive = near future.
+quiz: What does “dans trente minutes” mean? | thirty minutes ago | in thirty minutes | for thirty minutes | every thirty minutes | B | Dans + duration = in the future.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

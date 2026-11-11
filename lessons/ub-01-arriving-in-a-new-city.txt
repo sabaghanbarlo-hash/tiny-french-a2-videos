@@ -1,0 +1,47 @@
+title: Arriving in a New City
+episode: UB1
+scene: station
+
+[story]
+Adrien: Marinette ! Tu es enfin arrivée ! | Marinette! You've finally arrived!
+Marinette: Oui ! Je suis partie de Paris ce matin et je suis arrivée à midi. | Yes! I left Paris this morning and arrived at noon.
+Adrien: Tu as fait bon voyage ? | Did you have a good trip?
+Marinette: Très bon. Je suis montée dans le train à huit heures et j'ai dormi presque tout le trajet. | Very good. I got on the train at eight and slept almost the whole way.
+Adrien: Et tes cartons ? Ils sont déjà arrivés ? | And your boxes? Have they already arrived?
+Marinette: Pas encore. Ils sont partis hier et ils arrivent demain. | Not yet. They left yesterday and arrive tomorrow.
+
+[vocab]
+vocab: arriver | to arrive | ah-ree-VAY
+example: Je suis arrivée à midi. | I arrived at noon.
+vocab: partir | to leave | pahr-TEER
+example: Ils sont partis hier. | They left yesterday.
+vocab: monter | to get on, go up | mohn-TAY
+example: Je suis montée dans le train. | I got on the train.
+vocab: descendre | to get off, go down | day-SAHN-druh
+example: Elle est descendue à la gare. | She got off at the station.
+vocab: entrer | to enter | ahn-TRAY
+example: Nous sommes entrés dans le café. | We went into the café.
+vocab: le voyage | journey, trip | luh vwah-YAHZH
+example: Tu as fait bon voyage ? | Did you have a good trip?
+vocab: le carton | cardboard box | luh kar-TOHN
+example: Mes cartons arrivent demain. | My boxes arrive tomorrow.
+vocab: déjà | already | day-ZHAH
+example: Il est déjà parti. | He has already left.
+vocab: pas encore | not yet | pah zahn-KOHR
+example: Je ne suis pas encore arrivée. | I haven't arrived yet.
+
+[grammar]
+grammar: Passé composé with être | A small group of verbs of movement and change use être, not avoir, in the passé composé: aller, venir, arriver, partir, monter, descendre, entrer, sortir, rester, rentrer, naître, mourir. The past participle agrees with the subject like an adjective: je suis arrivé, je suis arrivée, nous sommes partis, elles sont parties.
+example: Marinette est arrivée à midi. | Marinette arrived at noon.
+example: Nous sommes partis hier. | We left yesterday.
+grammar: Déjà, pas encore, enfin | Put déjà between être and the participle: il est déjà parti. Pas encore replaces pas in the negative: je ne suis pas encore arrivée. Enfin means finally and often opens the sentence: enfin, tu es là !
+example: Elle est déjà arrivée. | She has already arrived.
+example: Ils ne sont pas encore partis. | They haven't left yet.
+
+[quiz]
+quiz: How does a woman say “I arrived”? | J'ai arrivé. | Je suis arrivée. | Je suis arrivé. | Je suis arrivées. | B | Arriver takes être, and the participle agrees with the subject.
+quiz: What does “pas encore” mean? | not any more | not at all | not yet | not again | C | Pas encore = not yet.
+quiz: Which sentence is correct? | Elles ont parti. | Elles sont partis. | Elles sont partie. | Elles sont parties. | D | Elles is feminine plural: parties.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

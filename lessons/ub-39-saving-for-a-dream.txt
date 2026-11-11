@@ -1,0 +1,47 @@
+title: Saving for a Dream
+episode: UB39
+scene: bookstore
+
+[story]
+Adrien: Tu veux vraiment partir un mois en Asie ? | Do you really want to go to Asia for a month?
+Marinette: Oui. Le voyage coûte environ trois mille euros, alors je dois économiser. | Yes. The trip costs about three thousand euros, so I have to save.
+Adrien: Comment tu comptes faire ? | How do you plan to do it?
+Marinette: D'abord, je dépenserai moins pour les sorties. Ensuite, je mettrai cent euros de côté chaque mois. | First, I'll spend less on going out. Then I'll put a hundred euros aside each month.
+Adrien: Et quand tu auras assez d'argent ? | And when you have enough money?
+Marinette: Dès que j'aurai assez d'argent, je réserverai mes billets. | As soon as I have enough money, I'll book my tickets.
+
+[vocab]
+vocab: économiser | to save (money) | ay-koh-noh-mee-ZAY
+example: Je dois économiser. | I have to save.
+vocab: dépenser | to spend | day-pahn-SAY
+example: Je dépense trop. | I spend too much.
+vocab: coûter | to cost | koo-TAY
+example: Le voyage coûte trois mille euros. | The trip costs three thousand euros.
+vocab: mettre de côté | to put aside | MEH-truh duh koh-TAY
+example: Je mets cent euros de côté. | I put a hundred euros aside.
+vocab: le budget | budget | luh bew-ZHEH
+example: Mon budget est limité. | My budget is limited.
+vocab: assez d'argent | enough money | ah-say dahr-ZHAHN
+example: J'ai assez d'argent. | I have enough money.
+vocab: quand | when | KAHN
+example: Quand j'aurai assez d'argent, je partirai. | When I have enough money, I'll leave.
+vocab: dès que | as soon as | deh KUH
+example: Dès que j'aurai assez d'argent, je réserverai. | As soon as I have enough money, I'll book.
+vocab: afin de | in order to | ah-FAN duh
+example: Je travaille afin de voyager. | I work in order to travel.
+
+[grammar]
+grammar: Quand and dès que + futur | After quand and dès que, French uses the futur when the main verb is in the futur, even if English uses the present: quand j'aurai assez d'argent, je partirai; dès que j'aurai assez d'argent, je réserverai. Compare si plus present: si j'ai assez d'argent, je partirai.
+example: Quand j'aurai assez d'argent, je partirai. | When I have enough money, I'll leave.
+example: Dès que j'arriverai, je t'appellerai. | As soon as I arrive, I'll call you.
+grammar: Goals and steps | Pour plus infinitive and afin de plus infinitive give the goal: pour voyager, je dois économiser; je travaille afin de partir. Order the steps with d'abord, ensuite, enfin. Use mettre de côté, économiser, dépenser moins to talk about saving. Combien ça coûte ? Ça coûte environ
+example: Pour voyager, je dois économiser. | To travel, I have to save.
+example: Je travaille afin de partir. | I work in order to leave.
+
+[quiz]
+quiz: Which sentence is correct? | Dès que j'ai assez d'argent, je partirai. | Dès que j'aurais assez d'argent, je partirai. | Dès que j'avais assez d'argent, je partirai. | Dès que j'aurai assez d'argent, je partirai. | D | Dès que + futur.
+quiz: What does “mettre de côté” mean? | to put aside | to set aside time | to move to the side | to throw away | A | Mettre de côté = save.
+quiz: What does “afin de” mean? | instead of | in order to | because of | without | B | Afin de = goal.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

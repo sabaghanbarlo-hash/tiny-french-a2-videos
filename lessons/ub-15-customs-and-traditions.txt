@@ -1,0 +1,47 @@
+title: Customs and Traditions
+episode: UB15
+scene: cafe
+
+[story]
+Marinette: Alors, le Japon ? Les gens sont très polis, non ? | So, Japan? People are very polite, aren't they?
+Adrien: Oui ! Au Japon, on ne serre pas la main, on s'incline. | Yes! In Japan, you don't shake hands, you bow.
+Marinette: En France, on fait la bise, mais seulement entre amis. | In France, we kiss on the cheek, but only between friends.
+Adrien: Et il est normal d'enlever ses chaussures avant d'entrer chez quelqu'un. | And it's normal to take your shoes off before going into someone's home.
+Marinette: Chez nous, on les garde souvent. Ça dépend des familles. | At our place, we often keep them on. It depends on the family.
+Adrien: Dans chaque pays, il faut respecter les habitudes des autres. | In every country, you have to respect other people's habits.
+
+[vocab]
+vocab: la coutume | custom | lah koo-TEWM
+example: C'est une coutume française. | It's a French custom.
+vocab: la tradition | tradition | lah trah-dee-SYOHN
+example: C'est une vieille tradition. | It's an old tradition.
+vocab: poli / polie | polite | poh-LEE
+example: Les gens sont très polis. | People are very polite.
+vocab: serrer la main | to shake hands | seh-RAY lah MAN
+example: On se serre la main. | We shake hands.
+vocab: faire la bise | to kiss on the cheek (greeting) | fehr lah BEEZ
+example: En France, on fait la bise. | In France, we kiss on the cheek.
+vocab: s'incliner | to bow | san-klee-NAY
+example: Au Japon, on s'incline. | In Japan, people bow.
+vocab: enlever | to take off | ahn-luh-VAY
+example: On enlève ses chaussures. | You take your shoes off.
+vocab: respecter | to respect | rehs-pehk-TAY
+example: Il faut respecter les habitudes. | You must respect the habits.
+vocab: l'habitude | habit, custom | lah-bee-TEWD
+example: C'est une habitude locale. | It's a local custom.
+
+[grammar]
+grammar: On for people in general | On means people in general or we: au Japon, on s'incline; en France, on fait la bise. It takes the il form of the verb. Add expressions of manners: il est poli de plus infinitive, il est normal de plus infinitive, il ne faut pas plus infinitive.
+example: En France, on fait la bise. | In France, we kiss on the cheek.
+example: Il est normal d'enlever ses chaussures. | It's normal to take your shoes off.
+grammar: Countries: en, au, aux | Use en with feminine countries and masculine countries starting with a vowel: en France, en Italie, en Iran. Use au with masculine countries: au Japon, au Canada. Use aux with plural countries: aux États-Unis, aux Pays-Bas. To say from, use de, du or des: de France, du Japon, des États-Unis.
+example: Je vais au Japon. | I'm going to Japan.
+example: Elle habite aux États-Unis. | She lives in the United States.
+
+[quiz]
+quiz: How do you say “In Japan, people bow”? | En Japon, on s'incline. | Au Japon, on incline. | À Japon, on s'incline. | Au Japon, on s'incline. | D | Au + masculine country.
+quiz: What does “il ne faut pas” express? | you must not | you may | you should | you want | A | Il ne faut pas = prohibition.
+quiz: Which preposition goes with “États-Unis”? | au | aux | en | à | B | Plural country: aux États-Unis.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

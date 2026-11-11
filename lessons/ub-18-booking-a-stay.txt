@@ -1,0 +1,47 @@
+title: Booking a Stay
+episode: UB18
+scene: town
+
+[story]
+Marinette: Bonjour, avez-vous une chambre libre pour deux nuits, à partir de vendredi ? | Hello, do you have a room free for two nights, from Friday?
+Adrien: Oui, j'ai une chambre double à quatre-vingts euros la nuit. Le petit-déjeuner est inclus. | Yes, I have a double room at eighty euros a night. Breakfast is included.
+Marinette: C'est parfait. Est-ce qu'il y a le Wi-Fi ? | That's perfect. Is there Wi-Fi?
+Adrien: Oui, gratuit dans toute la chambre. À quel nom, s'il vous plaît ? | Yes, free in the whole room. In what name, please?
+Marinette: Au nom de Marinette Dupont. Puis-je annuler si j'ai un problème ? | In the name of Marinette Dupont. Can I cancel if I have a problem?
+Adrien: Oui, jusqu'à quarante-huit heures avant votre arrivée. | Yes, up to forty-eight hours before your arrival.
+
+[vocab]
+vocab: libre | free, available | LEE-bruh
+example: Avez-vous une chambre libre ? | Do you have a room available?
+vocab: complet | full, fully booked | kohn-PLEH
+example: L'hôtel est complet. | The hotel is fully booked.
+vocab: inclus / incluse | included | an-KLEW
+example: Le petit-déjeuner est inclus. | Breakfast is included.
+vocab: gratuit / gratuite | free (no charge) | grah-TWEE
+example: Le Wi-Fi est gratuit. | The Wi-Fi is free.
+vocab: annuler | to cancel | ah-new-LAY
+example: Je voudrais annuler ma réservation. | I'd like to cancel my booking.
+vocab: confirmer | to confirm | kohn-feer-MAY
+example: Je confirme la réservation. | I confirm the booking.
+vocab: la réservation | booking, reservation | lah ray-zehr-vah-SYOHN
+example: Voici votre réservation. | Here is your booking.
+vocab: à partir de | from (a point in time) | ah pahr-TEER duh
+example: À partir de vendredi. | From Friday.
+vocab: jusqu'à | until, up to | zhews-KAH
+example: Jusqu'à dimanche. | Until Sunday.
+
+[grammar]
+grammar: Dates and periods | Use à partir de for a start point, jusqu'à for an end point and du au for a period. Use pour plus duration for how long you stay: pour deux nuits. Say prices per unit with la nuit, par nuit: quatre-vingts euros la nuit.
+example: Du vendredi au dimanche. | From Friday to Sunday.
+example: Quatre-vingts euros la nuit. | Eighty euros a night.
+grammar: Polite questions | There are three ways to ask a polite question. Est-ce que plus statement: est-ce qu'il y a le Wi-Fi ? Inversion: avez-vous une chambre libre ? puis-je annuler ? Intonation: il y a le Wi-Fi ? In writing and on the phone with strangers, inversion sounds the most formal. Add s'il vous plaît.
+example: Avez-vous une chambre libre ? | Do you have a room available?
+example: Est-ce qu'il y a le Wi-Fi ? | Is there Wi-Fi?
+
+[quiz]
+quiz: Which question is the most formal? | Avez-vous une chambre libre ? | Tu as une chambre libre ? | Vous avez une chambre libre ? | Il y a une chambre ? | A | Inversion is the formal form.
+quiz: What does “complet” mean for a hotel? | very big | fully booked | included | closed for repairs | B | Complet = no room left.
+quiz: What does “Le petit-déjeuner est inclus” mean? | Breakfast is extra | There is no breakfast | Breakfast is included | Breakfast is free for kids | C | Inclus = included.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

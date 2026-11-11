@@ -1,0 +1,47 @@
+title: A Day I Remember
+episode: UB6
+scene: street
+
+[story]
+Adrien: Comment tu as rencontré Léa ? | How did you meet Léa?
+Marinette: Il pleuvait ce jour-là et je n'avais pas de parapluie. | It was raining that day and I didn't have an umbrella.
+Adrien: Et alors ? | And then?
+Marinette: J'attendais le bus quand une fille m'a proposé son parapluie. | I was waiting for the bus when a girl offered me her umbrella.
+Adrien: C'était Léa ? | Was it Léa?
+Marinette: Oui ! Nous avons parlé jusqu'à l'arrivée du bus. Depuis, nous sommes amies. | Yes! We talked until the bus arrived. Since then, we've been friends.
+
+[vocab]
+vocab: pleuvoir | to rain | pluh-VWAHR
+example: Il pleuvait ce jour-là. | It was raining that day.
+vocab: attendre | to wait for | ah-TAHN-druh
+example: J'attendais le bus. | I was waiting for the bus.
+vocab: proposer | to offer, suggest | proh-poh-ZAY
+example: Elle m'a proposé son parapluie. | She offered me her umbrella.
+vocab: quand | when | KAHN
+example: Il dormait quand je suis arrivée. | He was sleeping when I arrived.
+vocab: pendant que | while | pahn-DAHN kuh
+example: Je lisais pendant que tu cuisinais. | I was reading while you were cooking.
+vocab: soudain | suddenly | soo-DAN
+example: Soudain, il a commencé à pleuvoir. | Suddenly, it started to rain.
+vocab: tout à coup | all of a sudden | too tah KOO
+example: Tout à coup, le téléphone a sonné. | All of a sudden, the phone rang.
+vocab: jusqu'à | until | zhews-KAH
+example: Nous avons parlé jusqu'à minuit. | We talked until midnight.
+vocab: ce jour-là | that day | suh zhoor LAH
+example: Ce jour-là, il pleuvait. | That day it was raining.
+
+[grammar]
+grammar: Imparfait vs passé composé | In a story, the imparfait sets the scene and describes what was going on: il pleuvait, je n'avais pas de parapluie, j'attendais le bus. The passé composé tells the events that happened and moved the story forward: une fille m'a proposé son parapluie, nous avons parlé. Ask yourself: is it the background or an action that happened?
+example: Il pleuvait quand je suis sortie. | It was raining when I went out.
+example: Je dormais quand il a téléphoné. | I was sleeping when he called.
+grammar: Quand, pendant que, soudain | Quand plus passé composé shows an event that interrupted: j'attendais le bus quand une fille est arrivée. Pendant que plus imparfait shows two things going on together: je lisais pendant qu'il cuisinait. Soudain and tout à coup introduce a sudden event in the passé composé.
+example: Je lisais pendant qu'il cuisinait. | I was reading while he was cooking.
+example: Soudain, le téléphone a sonné. | Suddenly the phone rang.
+
+[quiz]
+quiz: Which sentence is correct? | Je dormais quand il a téléphoné. | Je dormais quand il téléphonait. | J'ai dormi quand il a téléphoné. | Je dormais quand il téléphone. | A | Imparfait for what was going on, passé composé for the interruption.
+quiz: Which sentence describes the weather in the background? | Il a plu ce jour-là soudain. | Il pleuvait ce jour-là. | Il plut ce jour-là. | Il pleut ce jour-là. | B | A background description uses the imparfait.
+quiz: What does “soudain” mean? | slowly | later | suddenly | always | C | Soudain = suddenly.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!

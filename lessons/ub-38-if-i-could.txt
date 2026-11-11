@@ -1,0 +1,47 @@
+title: If I Could…
+episode: UB38
+scene: park
+
+[story]
+Marinette: Qu'est-ce que tu ferais si tu gagnais beaucoup d'argent ? | What would you do if you earned a lot of money?
+Adrien: Si j'avais assez d'argent, je voyagerais autour du monde. | If I had enough money, I would travel around the world.
+Marinette: Moi, si j'avais plus de temps, j'apprendrais le piano. | If I had more time, I would learn the piano.
+Adrien: Et si tu pouvais habiter n'importe où ? | And if you could live anywhere?
+Marinette: J'habiterais au bord de la mer, dans une maison avec un grand jardin. | I would live by the sea, in a house with a big garden.
+Adrien: Pourquoi pas ? Si on y croit, tout est possible ! | Why not? If you believe in it, anything is possible!
+
+[vocab]
+vocab: si j'avais | if I had | see zhah-VEH
+example: Si j'avais du temps, je voyagerais. | If I had time, I would travel.
+vocab: gagner de l'argent | to earn money | gah-NYAY duh lahr-ZHAHN
+example: Si je gagnais plus d'argent… | If I earned more money…
+vocab: autour du monde | around the world | oh-TOOR dew MOHND
+example: Je voyagerais autour du monde. | I would travel around the world.
+vocab: apprendre le piano | to learn the piano | ah-PRAHN-druh luh pyah-NOH
+example: J'apprendrais le piano. | I would learn the piano.
+vocab: n'importe où | anywhere | nan-pohrt OO
+example: Je pourrais habiter n'importe où. | I could live anywhere.
+vocab: au bord de la mer | by the sea | oh BOHR duh lah MEHR
+example: J'habiterais au bord de la mer. | I would live by the sea.
+vocab: rêver de | to dream of | reh-VAY duh
+example: Je rêve de voyager. | I dream of travelling.
+vocab: croire à | to believe in | KRWAHR ah
+example: Si on y croit, tout est possible. | If you believe in it, anything is possible.
+vocab: pourquoi pas | why not | poor-kwah PAH
+example: Pourquoi pas ? | Why not?
+
+[grammar]
+grammar: Si + imparfait + conditional | To talk about something unreal or unlikely, use si plus imparfait in the condition and the present conditional in the result: si j'avais assez d'argent, je voyagerais. Si tu pouvais, qu'est-ce que tu ferais ? Never use the conditional after si. Compare real conditions: si j'ai le temps, je voyagerai.
+example: Si j'avais le temps, je voyagerais. | If I had time, I would travel.
+example: Si on pouvait, on partirait. | If we could, we would leave.
+grammar: Questions and answers | Ask Qu'est-ce que tu ferais si ? and answer with the conditional: je voyagerais, j'achèterais, j'apprendrais. Add expressions: n'importe où, n'importe quand, n'importe qui. Use rêver de plus infinitive: je rêve de voyager.
+example: Qu'est-ce que tu ferais si… ? | What would you do if…?
+example: Je rêve de voyager. | I dream of travelling.
+
+[quiz]
+quiz: Which sentence is correct? | Si j'avais le temps, je voyagerais. | Si j'aurais le temps, je voyagerais. | Si j'ai le temps, je voyagerais. | Si j'avais le temps, je voyagerai. | A | Si + imparfait, conditional.
+quiz: What does “n'importe où” mean? | nowhere | anywhere | everywhere I go | somewhere | B | N'importe où = anywhere.
+quiz: Which tense follows si in an unreal condition? | conditionnel | futur | imparfait | passé composé | C | Si + imparfait.
+
+[ending]
+Marinette and Adrien: À bientôt ! | See you soon!
