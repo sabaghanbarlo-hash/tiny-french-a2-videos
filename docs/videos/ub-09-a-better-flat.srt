@@ -1,0 +1,29 @@
+1
+00:00:12,288 --> 00:00:20,420
+J'hésite entre deux appartements. Le premier est plus grand que le deuxième, mais il est plus cher.
+I'm hesitating between two flats. The first is bigger than the second, but it's more expensive.
+
+2
+00:00:20,520 --> 00:00:23,228
+Combien coûtent-ils ?
+How much do they cost?
+
+3
+00:00:23,328 --> 00:00:31,940
+Sept cents euros et six cents euros. Le deuxième est moins lumineux, mais il est aussi calme que le premier.
+Seven hundred and six hundred euros. The second is less bright, but it's as quiet as the first.
+
+4
+00:00:32,040 --> 00:00:35,084
+Lequel est le mieux situé ?
+Which one is better located?
+
+5
+00:00:35,184 --> 00:00:42,572
+Le premier. C'est le plus proche du métro, et c'est le quartier le plus agréable.
+The first. It's the closest to the metro, and it's the nicest neighbourhood.
+
+6
+00:00:42,672 --> 00:00:47,636
+Alors prends le premier. C'est le meilleur choix !
+Then take the first one. It's the best choice!

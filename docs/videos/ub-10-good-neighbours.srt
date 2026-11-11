@@ -1,0 +1,29 @@
+1
+00:00:12,024 --> 00:00:18,116
+Excusez-moi de vous déranger. La musique est un peu forte.
+Sorry to disturb you. The music is a bit loud.
+
+2
+00:00:18,216 --> 00:00:23,396
+Oh, pardon ! Je ne savais pas que vous dormiez.
+Oh, sorry! I didn't know you were asleep.
+
+3
+00:00:23,496 --> 00:00:27,452
+Pourriez-vous la baisser, s'il vous plaît ?
+Could you turn it down, please?
+
+4
+00:00:27,552 --> 00:00:31,580
+Bien sûr, je la baisse tout de suite.
+Of course, I'm turning it down right away.
+
+5
+00:00:31,680 --> 00:00:38,972
+Merci. Dans l'immeuble, il est interdit de faire du bruit après vingt-deux heures.
+Thank you. In the building, it's forbidden to make noise after ten p.m.
+
+6
+00:00:39,072 --> 00:00:44,852
+D'accord. Ne vous inquiétez pas, ça n'arrivera plus.
+OK. Don't worry, it won't happen again.
