@@ -1,0 +1,29 @@
+1
+00:00:12,048 --> 00:00:15,188
+Tu ressembles à ta sœur ?
+Do you look like your sister?
+
+2
+00:00:15,288 --> 00:00:21,692
+Un peu, mais nous sommes très différents. Elle est plus sportive que moi.
+A little, but we're very different. She's more sporty than me.
+
+3
+00:00:21,792 --> 00:00:24,644
+Vous avez les mêmes goûts ?
+Do you have the same tastes?
+
+4
+00:00:24,744 --> 00:00:31,196
+Pas du tout. Elle aime le rock, moi je préfère la musique classique.
+Not at all. She likes rock, I prefer classical music.
+
+5
+00:00:31,296 --> 00:00:34,988
+Et vous avez autant d'amis l'un que l'autre ?
+And do you have as many friends as each other?
+
+6
+00:00:35,088 --> 00:00:42,020
+Oui, et nous avons le même humour. Sur ce point, nous sommes pareils !
+Yes, and we have the same sense of humour. On that point, we're alike!

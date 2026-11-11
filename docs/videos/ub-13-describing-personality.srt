@@ -1,0 +1,29 @@
+1
+00:00:12,480 --> 00:00:15,572
+Comment est ton nouveau collègue ?
+What's your new colleague like?
+
+2
+00:00:15,672 --> 00:00:23,012
+Il a l'air un peu timide, mais il est très gentil. Il est aussi très organisé.
+He seems a bit shy, but he's very kind. He's also very organised.
+
+3
+00:00:23,112 --> 00:00:25,820
+Il ressemble à qui ?
+Who does he look like?
+
+4
+00:00:25,920 --> 00:00:32,300
+Il ressemble à ton cousin Paul : même sourire, même façon de parler.
+He looks like your cousin Paul: same smile, same way of speaking.
+
+5
+00:00:32,400 --> 00:00:34,772
+Il est drôle ?
+Is he funny?
+
+6
+00:00:34,872 --> 00:00:39,356
+Pas vraiment, mais il est plutôt calme et patient.
+Not really, but he's rather calm and patient.

@@ -1,0 +1,29 @@
+1
+00:00:12,216 --> 00:00:16,004
+Tu m'invites à ta pendaison de crémaillère ?
+Are you inviting me to your housewarming?
+
+2
+00:00:16,104 --> 00:00:23,948
+Bien sûr ! Je t'ai écrit un message hier. Je te donne l'adresse.
+Of course! I wrote you a message yesterday. I'll give you the address.
+
+3
+00:00:24,048 --> 00:00:27,020
+Qu'est-ce que je peux t'apporter ?
+What can I bring you?
+
+4
+00:00:27,120 --> 00:00:31,844
+Apporte-moi quelque chose à boire, ça suffit.
+Bring me something to drink, that's enough.
+
+5
+00:00:31,944 --> 00:00:36,884
+Et les voisins ? Tu leur as demandé de venir ?
+And the neighbours? Did you ask them to come?
+
+6
+00:00:36,984 --> 00:00:43,100
+Oui, je leur ai parlé hier. Ils arrivent à vingt heures.
+Yes, I spoke to them yesterday. They arrive at eight p.m.
