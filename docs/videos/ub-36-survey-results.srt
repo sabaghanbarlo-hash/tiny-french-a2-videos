@@ -1,0 +1,29 @@
+1
+00:00:12,216 --> 00:00:16,196
+Alors, qu'est-ce que le sondage a montré ?
+So, what did the survey show?
+
+2
+00:00:16,296 --> 00:00:23,468
+Nous avons interrogé deux cents personnes. La moitié vient en transports en commun.
+We asked two hundred people. Half come by public transport.
+
+3
+00:00:23,568 --> 00:00:25,940
+Et les autres ?
+And the others?
+
+4
+00:00:26,040 --> 00:00:31,316
+Environ trente pour cent viennent à vélo et vingt pour cent en voiture.
+About thirty percent come by bike and twenty percent by car.
+
+5
+00:00:31,416 --> 00:00:35,732
+La plupart des gens sont donc contents des transports ?
+So most people are happy with transport?
+
+6
+00:00:35,832 --> 00:00:41,660
+Oui, plus de soixante-dix pour cent, mais un quart voudrait plus de bus.
+Yes, more than seventy percent, but a quarter would like more buses.
