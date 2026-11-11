@@ -1,0 +1,29 @@
+1
+00:00:12,000 --> 00:00:16,700
+Tu as une mauvaise mine. Ça ne va pas ?
+You look unwell. Are you OK?
+
+2
+00:00:16,800 --> 00:00:23,468
+Je ne me sens pas bien depuis deux jours. J'ai un rhume et je tousse beaucoup.
+I haven't felt well for two days. I have a cold and I'm coughing a lot.
+
+3
+00:00:23,568 --> 00:00:26,180
+Tu as de la fièvre ?
+Do you have a fever?
+
+4
+00:00:26,280 --> 00:00:31,772
+Un peu. Et j'ai du mal à dormir à cause de la toux.
+A little. And I have trouble sleeping because of the cough.
+
+5
+00:00:31,872 --> 00:00:37,172
+Tu as besoin de repos. Tu devrais voir un médecin.
+You need rest. You should see a doctor.
+
+6
+00:00:37,272 --> 00:00:42,956
+Tu as raison. Je vais prendre rendez-vous demain matin.
+You're right. I'll make an appointment tomorrow morning.

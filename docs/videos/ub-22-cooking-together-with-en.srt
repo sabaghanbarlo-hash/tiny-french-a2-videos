@@ -1,0 +1,29 @@
+1
+00:00:11,856 --> 00:00:14,228
+Tu as des œufs ?
+Do you have any eggs?
+
+2
+00:00:14,328 --> 00:00:19,364
+Oui, j'en ai six. Combien t'en faut ?
+Yes, I have six. How many do you need?
+
+3
+00:00:19,464 --> 00:00:24,356
+Il m'en faut trois. Tu as aussi du sucre ?
+I need three. Do you also have some sugar?
+
+4
+00:00:24,456 --> 00:00:31,052
+J'en ai un peu, mais je n'en ai pas beaucoup. Prends-en deux cuillères.
+I have a little, but not a lot. Take two spoonfuls.
+
+5
+00:00:31,152 --> 00:00:33,572
+Et du beurre ?
+And some butter?
+
+6
+00:00:33,672 --> 00:00:38,924
+Il n'y en a plus. Je vais en acheter ce soir.
+There's none left. I'm going to buy some tonight.

@@ -1,0 +1,34 @@
+1
+00:00:12,456 --> 00:00:17,828
+Je suis végétarien. Y a-t-il un plat sans viande ?
+I'm vegetarian. Is there a dish without meat?
+
+2
+00:00:17,928 --> 00:00:22,292
+Oui, le plat du jour est une tarte aux légumes.
+Yes, the dish of the day is a vegetable tart.
+
+3
+00:00:22,392 --> 00:00:29,660
+Parfait. Et pour commencer, une soupe, mais sans crème, s'il vous plaît.
+Perfect. And to start, a soup, but without cream, please.
+
+4
+00:00:29,760 --> 00:00:34,076
+Très bien. Et comme boisson ?
+Very good. And to drink?
+
+5
+00:00:34,176 --> 00:00:38,708
+Plutôt de l'eau que du vin. Merci.
+Water rather than wine. Thank you.
+
+6
+00:00:38,808 --> 00:00:43,196
+Excusez-moi, la soupe est un peu trop salée.
+Excuse me, the soup is a little too salty.
+
+7
+00:00:43,296 --> 00:00:49,484
+Je suis désolée. Je vous en apporte une autre tout de suite.
+I'm sorry. I'll bring you another one right away.
