@@ -1,0 +1,29 @@
+1
+00:00:12,408 --> 00:00:17,972
+Excusez-moi, le vol pour Marseille part bien à quatorze heures ?
+Excuse me, does the flight to Marseille leave at two p.m.?
+
+2
+00:00:18,072 --> 00:00:24,932
+Non, il a du retard. Il vient de changer de porte : porte douze.
+No, it's delayed. It has just changed gate: gate twelve.
+
+3
+00:00:25,032 --> 00:00:28,532
+Quand est-ce que l'embarquement commence ?
+When does boarding start?
+
+4
+00:00:28,632 --> 00:00:34,508
+Il va commencer dans trente minutes. Vous avez un bagage à main ?
+It's going to start in thirty minutes. Do you have hand luggage?
+
+5
+00:00:34,608 --> 00:00:40,532
+Oui, une petite valise. Elle peut passer en cabine ?
+Yes, a small suitcase. Can it go in the cabin?
+
+6
+00:00:40,632 --> 00:00:47,468
+Oui, si elle fait moins de dix kilos. N'oubliez pas votre carte d'embarquement.
+Yes, if it weighs under ten kilos. Don't forget your boarding pass.

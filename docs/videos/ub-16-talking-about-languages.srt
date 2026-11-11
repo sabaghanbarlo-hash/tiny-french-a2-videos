@@ -1,0 +1,29 @@
+1
+00:00:12,480 --> 00:00:15,236
+Quelles langues tu parles ?
+Which languages do you speak?
+
+2
+00:00:15,336 --> 00:00:23,012
+Je parle français, anglais et un peu espagnol. J'apprends l'italien depuis un an.
+I speak French, English and a little Spanish. I've been learning Italian for a year.
+
+3
+00:00:23,112 --> 00:00:25,868
+Tu le parles couramment ?
+Do you speak it fluently?
+
+4
+00:00:25,968 --> 00:00:33,188
+Pas encore, mais je le comprends bien. Mon accent est encore difficile.
+Not yet, but I understand it well. My accent is still difficult.
+
+5
+00:00:33,288 --> 00:00:37,748
+Pour progresser, il faut parler tous les jours.
+To make progress, you have to speak every day.
+
+6
+00:00:37,848 --> 00:00:44,540
+Je sais. Je regarde aussi des films sans sous-titres pour m'entraîner.
+I know. I also watch films without subtitles to practise.

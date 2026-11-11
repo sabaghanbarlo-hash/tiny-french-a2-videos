@@ -1,0 +1,29 @@
+1
+00:00:12,408 --> 00:00:17,708
+Ce week-end, si tu veux, nous partirons à Marseille !
+This weekend, if you like, we'll go to Marseille!
+
+2
+00:00:17,808 --> 00:00:23,156
+Bonne idée ! Nous prendrons le train vendredi soir ?
+Good idea! Shall we take the train on Friday evening?
+
+3
+00:00:23,256 --> 00:00:30,668
+Oui, et nous reviendrons dimanche après-midi. Je réserverai l'hôtel ce soir.
+Yes, and we'll come back on Sunday afternoon. I'll book the hotel tonight.
+
+4
+00:00:30,768 --> 00:00:36,908
+Moi, j'achèterai les billets. Je serai à la gare avant midi.
+I'll buy the tickets. I'll be at the station before noon.
+
+5
+00:00:37,008 --> 00:00:42,692
+Ensuite, nous visiterons le Vieux-Port et nous mangerons une bouillabaisse.
+Then we'll visit the Old Port and eat a bouillabaisse.
+
+6
+00:00:42,792 --> 00:00:47,492
+On fera aussi une promenade en bateau, s'il fait beau !
+We'll also go on a boat trip, if the weather's nice!
